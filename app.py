@@ -28,6 +28,8 @@ def main():
     O **ABCclick Fotoclube** está promovendo seu 9º Salão Nacional de Arte Fotográfica (https://www.abcclick.com.br/9salao). 
     Conheça algumas curiosidades e informações sobre os participantes e fotos inscritas.
 
+    Veja este **[link](https://www.linkedin.com/posts/hamiltontenoriodasilva_vejam-um-pequeno-retrato-sobre-participantes-activity-6767073669417054208-7Rd2)** com comentários sobre o assunto.
+
     Você pode ver na lateral esquerda os totais gerais.
     """)
     # informação na side bar
