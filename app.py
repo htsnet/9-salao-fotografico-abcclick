@@ -39,9 +39,9 @@ def main():
     st.sidebar.info('Total de Fotos: {}'. format(df_fotos.shape[0]))
 
     # ativar se precisar ver os dados do dataframe
-    if st.sidebar.checkbox('Ver dados de entrada'):
-        st.header('Dados de entrada')
-        st.write(df_fotos)
+    # if st.sidebar.checkbox('Ver dados de entrada'):
+    #     st.header('Dados de entrada')
+    #     st.write(df_fotos)
     # if st.sidebar.checkbox('Ver dados de entrada'):
     #     st.header('Dados de entrada')
     #     st.write(df_inscritos)
