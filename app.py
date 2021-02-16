@@ -48,17 +48,19 @@ def main():
     #     st.write(df_inscritos)
 
     st.subheader('Localização dos Inscritos')
+    #prepara 2 colunas
+    col1, col2 = st.beta_columns((1,6))
     todos_estados = df_inscritos.Estado.unique().tolist()
     todos_estados.sort()
     estados = ['Todos']
     for i in todos_estados:
         estados.append(i)
-    estado = st.radio('Estado', (estados), index=0 )
+    estado = col1.radio('Estado', (estados), index=0 )
     if estado == 'Todos':
         df_incritos_estado = df_inscritos.copy()
     else:
         df_incritos_estado = df_inscritos[df_inscritos['Estado'] == estado]
-    st.map(df_incritos_estado)
+    col2.map(df_incritos_estado)
 
     st.subheader('Quantidade de fotos por dia')
     fig, ax = plt.subplots()
@@ -75,11 +77,12 @@ def main():
     st.pyplot(fig)
 
     st.subheader('Resolução das fotos inscritas')
+    col3, col4 = st.beta_columns((1,6))
     todos_formatos = df_fotos.Formato.unique().tolist()
     formatos = ['Todas']
     for i in todos_formatos:
         formatos.append(i)
-    sentido_foto = st.radio('Formato da foto', (formatos), index=0 )
+    sentido_foto = col3.radio('Formato da foto', (formatos), index=0 )
 
     if sentido_foto == 'Todas':
         df_fotos_parcial = df_fotos.copy()
@@ -93,7 +96,7 @@ def main():
     #g = sns.relplot(x='Concurso_Altura', y='Concurso_Largura', data=df_fotos, ax=ax, scatter_kws={'s':20, 'facecolor':'red'})
     #g.set_xticklabels(g.get_xticklabels(), rotation=90 )
     g.set(ylabel='Altura', xlabel='Largura')
-    st.pyplot(fig)
+    col4.pyplot(fig)
 
     st.subheader('Palavras mais usadas nos títulos')
     imagem_cloud_words = 'nuvemDePalavras.png'
