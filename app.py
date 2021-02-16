@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # carrega os 2 dataframes
-df_fotos = pd.read_csv('fotos.csv')
-df_inscritos = pd.read_csv('inscritos.csv')
+df_fotos = pd.read_csv('https://www.abcclick.com.br/streamlit/fotos.csv')
+df_inscritos = pd.read_csv('https://www.abcclick.com.br/streamlit/inscritos.csv')
 
 #remove as 2 linhas iniciais de controle do Orange
 df_fotos = df_fotos[2:]
