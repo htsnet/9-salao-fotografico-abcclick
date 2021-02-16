@@ -48,7 +48,17 @@ def main():
     #     st.write(df_inscritos)
 
     st.subheader('Localização dos Inscritos')
-    st.map(df_inscritos)
+    todos_estados = df_inscritos.Estado.unique().tolist()
+    todos_estados.sort()
+    estados = ['Todos']
+    for i in todos_estados:
+        estados.append(i)
+    estado = st.radio('Estado', (estados), index=0 )
+    if estado == 'Todos':
+        df_incritos_estado = df_inscritos.copy()
+    else:
+        df_incritos_estado = df_inscritos[df_inscritos['Estado'] == estado]
+    st.map(df_incritos_estado)
 
     st.subheader('Quantidade de fotos por dia')
     fig, ax = plt.subplots()
@@ -65,24 +75,24 @@ def main():
     st.pyplot(fig)
 
     st.subheader('Resolução das fotos inscritas')
-    sentido_foto = st.radio('Formato da foto', ('Paisagem', 'Retrato', 'Quadrada', 'Todas'), index=3 )
+    todos_formatos = df_fotos.Formato.unique().tolist()
+    formatos = ['Todas']
+    for i in todos_formatos:
+        formatos.append(i)
+    sentido_foto = st.radio('Formato da foto', (formatos), index=0 )
 
-    if sentido_foto == 'Paisagem':
-        df_fotos_parcial = df_fotos[df_fotos['Formato'] == 'Paisagem']
-    elif sentido_foto == 'Retrato':
-        df_fotos_parcial = df_fotos[df_fotos['Formato'] == 'Retrato']
-    elif sentido_foto == 'Quadrada':
-        df_fotos_parcial = df_fotos[df_fotos['Formato'] == 'Quadrada']
-    else:
+    if sentido_foto == 'Todas':
         df_fotos_parcial = df_fotos.copy()
+    else:
+        df_fotos_parcial = df_fotos[df_fotos['Formato'] == sentido_foto]
 
     sns.set_theme(color_codes=True)
     fig, ax = plt.subplots()
-    g = sns.regplot(x='Concurso_Altura', y='Concurso_Largura', data=df_fotos_parcial,
+    g = sns.regplot(x='Concurso_Largura', y='Concurso_Altura', data=df_fotos_parcial,
      ax=ax, fit_reg=False, scatter_kws={'s':20, 'facecolor':'red'})
     #g = sns.relplot(x='Concurso_Altura', y='Concurso_Largura', data=df_fotos, ax=ax, scatter_kws={'s':20, 'facecolor':'red'})
     #g.set_xticklabels(g.get_xticklabels(), rotation=90 )
-    g.set(ylabel='Largura', xlabel='Altura')
+    g.set(ylabel='Altura', xlabel='Largura')
     st.pyplot(fig)
 
     st.subheader('Palavras mais usadas nos títulos')
