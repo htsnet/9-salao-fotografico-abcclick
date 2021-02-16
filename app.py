@@ -5,12 +5,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # carrega os 2 dataframes
-df_fotos = pd.read_csv('https://www.abcclick.com.br/streamlit/fotos.csv')
-df_inscritos = pd.read_csv('https://www.abcclick.com.br/streamlit/inscritos.csv')
+df_fotos = pd.read_csv('fotos.csv')
+df_inscritos = pd.read_csv('inscritos.csv')
 
-#remove as 2 linhas iniciais de controle do Orange
-df_fotos = df_fotos[2:]
-df_inscritos = df_inscritos[2:]
 #converte lat e long em float
 df_inscritos['latitude'] = pd.to_numeric(df_inscritos['latitude'], downcast="float")
 df_inscritos['longitude'] = pd.to_numeric(df_inscritos['longitude'], downcast="float")
