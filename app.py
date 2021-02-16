@@ -34,12 +34,13 @@ def main():
     Você pode ver na lateral esquerda os totais gerais.
     """)
     # informação na side bar
+    logo = 's9-vers.jpg'
+    st.sidebar.image(logo)
+    
     st.sidebar.write("**Resumo**")
     st.sidebar.info('Total de Inscritos: {}'. format(df_inscritos.shape[0]))
     st.sidebar.info('Total de Fotos: {}'. format(df_fotos.shape[0]))
 
-    logo = 's9-vers.jpg'
-    st.sidebar.image(logo)
 
     # ativar se precisar ver os dados do dataframe
     # if st.sidebar.checkbox('Ver dados de entrada'):
