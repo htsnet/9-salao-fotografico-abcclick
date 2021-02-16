@@ -64,7 +64,7 @@ def main():
     st.pyplot(fig)
 
     st.subheader('Resolução das fotos inscritas')
-    sentido_foto = st.radio('Formato da foto', ('Paisagem', 'Retrato', 'Quadrada', 'Todas'))
+    sentido_foto = st.radio('Formato da foto', ('Paisagem', 'Retrato', 'Quadrada', 'Todas'), index=3 )
 
     if sentido_foto == 'Paisagem':
         df_fotos_parcial = df_fotos[df_fotos['Formato'] == 'Paisagem']
