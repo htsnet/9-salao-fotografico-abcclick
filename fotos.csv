@@ -1,0 +1,1596 @@
+Concurso_Participante,Data da Inscrição,Concurso_Status,Concurso_Largura,Concurso_Altura,um,Landscape,Retrato,Quadrada,Formato,Concurso_Legenda
+continuous,time,discrete,continuous,continuous,continuous,continuous,continuous,continuous,discrete,string
+palette=linear_bgyw_20_98_c66,palette=linear_bgyw_20_98_c66,"colors={'Aceita':\ '#46BEFA',\ 'Removida':\ '#ED462F',\ 'Rejeitada':\ '#AAF22B'}",palette=linear_bgyw_20_98_c66,palette=linear_bgyw_20_98_c66,palette=linear_bgyw_20_98_c66,palette=linear_bgyw_20_98_c66,palette=linear_bgyw_20_98_c66,palette=linear_bgyw_20_98_c66,"colors={'Paisagem':\ '#46BEFA',\ 'Quadrada':\ '#ED462F',\ 'Retrato':\ '#AAF22B'}",meta title=True unidade=1
+12127.0,2021-01-08 08:57:49,Aceita,3280.0,4624.0,1.0,0.0,1.0,0.0,Retrato,Octopus
+12127.0,2021-01-08 08:57:49,Aceita,3200.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Não olhe
+12127.0,2021-01-08 08:57:49,Aceita,3201.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Dançando no escuro
+12127.0,2021-01-08 08:57:49,Aceita,3783.0,3849.0,1.0,0.0,1.0,0.0,Retrato,Embriaguez
+12392.0,2021-01-08 11:16:25,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Sentido Zona Norte.
+12392.0,2021-01-08 11:16:25,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Sentido Zona Sul.
+12392.0,2021-01-08 11:16:25,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Rio Branco Impar.
+12392.0,2021-01-08 11:16:25,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Passagem do tempo...
+7263.0,2021-01-08 12:46:08,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Labuta
+7263.0,2021-01-08 12:46:08,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Natureza social
+7263.0,2021-01-08 12:46:08,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Urbanidade cotidiana
+7263.0,2021-01-08 12:46:08,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Realidade?
+5530.0,2021-01-08 13:19:08,Aceita,3500.0,2325.0,1.0,1.0,0.0,0.0,Paisagem,A luz de vela!
+5530.0,2021-01-08 13:19:08,Aceita,3500.0,2336.0,1.0,1.0,0.0,0.0,Paisagem,Só ele!
+5530.0,2021-01-08 13:19:08,Aceita,3500.0,2334.0,1.0,1.0,0.0,0.0,Paisagem,Exercício de pernas!
+5530.0,2021-01-08 13:19:08,Aceita,3500.0,2336.0,1.0,1.0,0.0,0.0,Paisagem,Apagando a sujeira!
+12394.0,2021-01-08 18:13:18,Aceita,2529.0,3162.0,1.0,0.0,1.0,0.0,Retrato,Sozinha
+12394.0,2021-01-08 18:13:18,Aceita,3167.0,2525.0,1.0,1.0,0.0,0.0,Paisagem,Contando Formigas
+12394.0,2021-01-08 18:13:18,Aceita,2309.0,3464.0,1.0,0.0,1.0,0.0,Retrato,Câmara do Café
+12394.0,2021-01-08 18:13:18,Aceita,3464.0,2309.0,1.0,1.0,0.0,0.0,Paisagem,Parada pro descanso
+8856.0,2021-01-08 18:45:25,Aceita,3372.0,2212.0,1.0,1.0,0.0,0.0,Paisagem,"""Confiança"""
+8856.0,2021-01-08 18:45:25,Aceita,3872.0,2592.0,1.0,1.0,0.0,0.0,Paisagem,"""Fazenda"""
+8856.0,2021-01-08 18:45:25,Aceita,3006.0,2100.0,1.0,1.0,0.0,0.0,Paisagem,"""Salinas"""
+8856.0,2021-01-08 18:45:25,Aceita,3872.0,2592.0,1.0,1.0,0.0,0.0,Paisagem,"""Véu"""
+5633.0,2021-01-09 01:08:04,Aceita,3500.0,2321.0,1.0,1.0,0.0,0.0,Paisagem,Saudade Elevado
+5633.0,2021-01-09 01:08:04,Aceita,2321.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Flores de Concreto
+5633.0,2021-01-09 01:08:04,Aceita,2321.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Mãos Para o Alto
+5633.0,2021-01-09 01:08:04,Aceita,3500.0,2307.0,1.0,1.0,0.0,0.0,Paisagem,Pandemico
+12391.0,2021-01-09 08:57:00,Aceita,3072.0,2304.0,1.0,1.0,0.0,0.0,Paisagem,Teatro Polytheama- Jundiaí/SP
+12391.0,2021-01-09 09:02:13,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Patos na Lagoa Azul - Rio Claro/SP
+12391.0,2021-01-09 09:03:28,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Patos nadando a Lagoa Azul -Rio Claro/SP
+12391.0,2021-01-09 09:23:22,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Garça -Jundiaí/SP
+11189.0,2021-01-09 12:57:23,Aceita,6000.0,3980.0,1.0,1.0,0.0,0.0,Paisagem,Estação da Luz
+11189.0,2021-01-09 12:59:03,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Posando no MAC
+11189.0,2021-01-09 13:00:45,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Igrejinha de Saquarema
+11189.0,2021-01-09 13:01:56,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Passeando no Bosque
+12398.0,2021-01-09 14:08:38,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Timidez
+12398.0,2021-01-09 14:08:38,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Pudor
+12398.0,2021-01-09 14:12:05,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Modéstia
+12133.0,2021-01-09 14:50:39,Aceita,4200.0,2800.0,1.0,1.0,0.0,0.0,Paisagem,2017-07-15.0004
+12133.0,2021-01-09 14:50:39,Aceita,4200.0,2800.0,1.0,1.0,0.0,0.0,Paisagem,2017-07-15.0007
+12133.0,2021-01-09 14:53:28,Aceita,2800.0,4200.0,1.0,0.0,1.0,0.0,Retrato,2016-07-24.0039
+12133.0,2021-01-09 14:53:28,Aceita,2800.0,4200.0,1.0,0.0,1.0,0.0,Retrato,2019-07-13.0008
+12399.0,2021-01-09 17:07:31,Aceita,3883.0,3001.0,1.0,1.0,0.0,0.0,Paisagem,Expediente Encerrado
+12399.0,2021-01-09 17:07:31,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Histórias Sólidas
+12399.0,2021-01-09 17:07:31,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Arte na Selva
+12399.0,2021-01-09 17:07:31,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Decomposição
+12201.0,2021-01-09 18:17:06,Aceita,1745.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Bora lá!
+12201.0,2021-01-09 18:17:06,Aceita,3000.0,2633.0,1.0,1.0,0.0,0.0,Paisagem,Centenária
+12201.0,2021-01-09 18:17:06,Aceita,3000.0,1841.0,1.0,1.0,0.0,0.0,Paisagem,Migração
+12201.0,2021-01-09 18:17:06,Aceita,3000.0,1458.0,1.0,1.0,0.0,0.0,Paisagem,Rural
+12369.0,2021-01-09 19:16:20,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,ESPERANÇA
+12369.0,2021-01-09 19:16:20,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,VISIONÁRIO
+12369.0,2021-01-09 19:16:20,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,MISTÉRIO
+12369.0,2021-01-09 19:16:20,Aceita,2254.0,3000.0,1.0,0.0,1.0,0.0,Retrato,FOLIA DE REIS
+3837.0,2021-01-09 19:39:21,Aceita,3280.0,2460.0,1.0,1.0,0.0,0.0,Paisagem,Believer
+3837.0,2021-01-09 19:39:21,Aceita,3672.0,4896.0,1.0,0.0,1.0,0.0,Retrato,OCA
+3837.0,2021-01-09 19:39:21,Aceita,2460.0,3280.0,1.0,0.0,1.0,0.0,Retrato,Quarentena
+3837.0,2021-01-09 19:39:21,Aceita,4896.0,3672.0,1.0,1.0,0.0,0.0,Paisagem,Toda forma de amor
+11199.0,2021-01-09 23:45:42,Aceita,2316.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Mulher de fé 1
+11199.0,2021-01-09 23:45:42,Aceita,2602.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Mulher de fé 2
+11199.0,2021-01-09 23:45:42,Aceita,2248.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Senti firmeza!
+12401.0,2021-01-10 01:07:18,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,As Raízes
+12401.0,2021-01-10 02:43:08,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Retrato do SAVACU
+12401.0,2021-01-10 03:07:15,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Os Pelicanos
+12401.0,2021-01-10 03:07:15,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Hora do Rush
+3548.0,2021-01-10 11:42:33,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Marcas do Tempo
+3548.0,2021-01-10 11:42:33,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,A vida passar
+3548.0,2021-01-10 11:42:33,Aceita,3000.0,2001.0,1.0,1.0,0.0,0.0,Paisagem,Vem Verão
+3548.0,2021-01-10 11:42:33,Aceita,1689.0,3000.0,1.0,0.0,1.0,0.0,Retrato,O Farol
+12403.0,2021-01-10 11:49:51,Aceita,3443.0,2148.0,1.0,1.0,0.0,0.0,Paisagem,Feira
+12403.0,2021-01-10 11:51:07,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,novo olhar
+12403.0,2021-01-10 11:51:43,Aceita,3992.0,2661.0,1.0,1.0,0.0,0.0,Paisagem,novo olhar um
+12403.0,2021-01-10 11:54:33,Aceita,3204.0,2036.0,1.0,1.0,0.0,0.0,Paisagem,novo olhar dois
+8760.0,2021-01-10 12:48:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Lagoa do Amancio
+8760.0,2021-01-10 12:48:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Reinado
+8760.0,2021-01-10 12:48:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Rizo Real
+8760.0,2021-01-10 12:48:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Sobradao do Leite
+5807.0,2021-01-10 14:19:53,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Solitude
+5807.0,2021-01-10 14:19:53,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Pombais de Brasília
+5807.0,2021-01-10 14:19:53,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Amanheceres daqui
+5807.0,2021-01-10 14:19:53,Aceita,4000.0,2453.0,1.0,1.0,0.0,0.0,Paisagem,o maestro
+2001.0,2021-01-10 15:20:18,Aceita,4000.0,2809.0,1.0,1.0,0.0,0.0,Paisagem,Galeria do Reggae
+2001.0,2021-01-10 15:21:01,Aceita,4000.0,2644.0,1.0,1.0,0.0,0.0,Paisagem,Rush Hour
+2001.0,2021-01-10 15:21:20,Aceita,4000.0,2670.0,1.0,1.0,0.0,0.0,Paisagem,Trabalho pesado
+12405.0,2021-01-10 15:37:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Brincadeira de Criança
+12405.0,2021-01-10 15:48:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Bate Papo
+12405.0,2021-01-10 16:09:03,Aceita,3000.0,1384.0,1.0,1.0,0.0,0.0,Paisagem,Olho do Guaraná
+12405.0,2021-01-10 16:13:25,Aceita,3000.0,1950.0,1.0,1.0,0.0,0.0,Paisagem,Ninando o Sol
+12407.0,2021-01-10 16:25:10,Aceita,5301.0,3534.0,1.0,1.0,0.0,0.0,Paisagem,Insulae
+12407.0,2021-01-10 16:46:00,Aceita,6240.0,4160.0,1.0,1.0,0.0,0.0,Paisagem,Sombra da Covid-19
+12407.0,2021-01-10 16:46:00,Aceita,6166.0,4111.0,1.0,1.0,0.0,0.0,Paisagem,Fé contra o vírus
+12407.0,2021-01-10 16:46:00,Aceita,6240.0,4160.0,1.0,1.0,0.0,0.0,Paisagem,Carrossel pandêmico
+12396.0,2021-01-10 18:00:21,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,"Fique em casa, a Enfermagem agradece"
+12396.0,2021-01-10 18:00:21,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Guardião
+12396.0,2021-01-10 18:00:21,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Paróquia Nossa Senhora da Piedade
+12396.0,2021-01-10 18:00:21,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Paraibando
+12408.0,2021-01-10 21:04:11,Aceita,4801.0,3201.0,1.0,1.0,0.0,0.0,Paisagem,"O precioso tempo,o tempo precioso."
+12408.0,2021-01-10 21:04:11,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,O Caminho
+12408.0,2021-01-10 21:04:11,Aceita,4698.0,3132.0,1.0,1.0,0.0,0.0,Paisagem,A deus
+12408.0,2021-01-10 21:04:11,Aceita,4941.0,3294.0,1.0,1.0,0.0,0.0,Paisagem,O Futuro do presente
+12382.0,2021-01-10 21:43:39,Aceita,3315.0,5086.0,1.0,0.0,1.0,0.0,Retrato,E la vida se va en un instante.
+12410.0,2021-01-10 22:10:02,Aceita,2427.0,3239.0,1.0,0.0,1.0,0.0,Retrato,Transitório
+12410.0,2021-01-10 22:10:02,Aceita,3096.0,4128.0,1.0,0.0,1.0,0.0,Retrato,Vário
+9514.0,2021-01-11 04:19:23,Aceita,4896.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Farura
+9514.0,2021-01-11 04:19:23,Aceita,4896.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Portas fechadas
+9514.0,2021-01-11 04:19:23,Aceita,3598.0,4721.0,1.0,0.0,1.0,0.0,Retrato,Observador
+9514.0,2021-01-11 04:22:48,Aceita,4896.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,isolamento social
+3641.0,2021-01-11 09:18:59,Aceita,5044.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Juvenal
+3641.0,2021-01-11 09:18:59,Aceita,3543.0,2356.0,1.0,1.0,0.0,0.0,Paisagem,Do barro ao pó
+3641.0,2021-01-11 09:18:59,Aceita,8858.0,5906.0,1.0,1.0,0.0,0.0,Paisagem,Ser tão poesia
+3641.0,2021-01-11 09:18:59,Aceita,3543.0,5309.0,1.0,0.0,1.0,0.0,Retrato,alumbramento
+3733.0,2021-01-11 10:50:41,Aceita,3000.0,2318.0,1.0,1.0,0.0,0.0,Paisagem,Grito
+3733.0,2021-01-11 10:50:41,Aceita,3000.0,2143.0,1.0,1.0,0.0,0.0,Paisagem,Cigarro de palha
+3733.0,2021-01-11 10:50:41,Aceita,3000.0,2243.0,1.0,1.0,0.0,0.0,Paisagem,Dona Sebastiana
+3733.0,2021-01-11 10:50:41,Aceita,2253.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Colheita do Café
+12412.0,2021-01-11 11:31:03,Aceita,3000.0,2069.0,1.0,1.0,0.0,0.0,Paisagem,Tempos Antigos em Tempos Modernos
+12412.0,2021-01-11 11:31:03,Aceita,3000.0,2839.0,1.0,1.0,0.0,0.0,Paisagem,Cones
+12412.0,2021-01-11 11:31:03,Aceita,3000.0,2532.0,1.0,1.0,0.0,0.0,Paisagem,Caminhando nas Sombras
+12412.0,2021-01-11 11:34:30,Aceita,3000.0,2299.0,1.0,1.0,0.0,0.0,Paisagem,Ruínas a Beira-Mar
+12413.0,2021-01-11 12:34:47,Aceita,3543.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,Malabares
+12413.0,2021-01-11 12:34:47,Aceita,4757.0,3171.0,1.0,1.0,0.0,0.0,Paisagem,Iluminada
+12413.0,2021-01-11 12:34:47,Aceita,5400.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,Aconchego
+12413.0,2021-01-11 12:34:47,Aceita,3000.0,2001.0,1.0,1.0,0.0,0.0,Paisagem,Terra e Ar
+12414.0,2021-01-11 13:13:22,Aceita,6016.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Paralelas
+12414.0,2021-01-11 13:13:22,Aceita,6016.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Perspectiva
+12414.0,2021-01-11 13:13:22,Aceita,6016.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Tormenta
+12400.0,2021-01-11 14:16:04,Aceita,3264.0,4928.0,1.0,0.0,1.0,0.0,Retrato,Cruz
+12400.0,2021-01-11 14:16:04,Aceita,3170.0,1450.0,1.0,1.0,0.0,0.0,Paisagem,Engenhão
+12400.0,2021-01-11 14:16:04,Aceita,4128.0,2322.0,1.0,1.0,0.0,0.0,Paisagem,Javari
+12400.0,2021-01-11 14:16:04,Aceita,2322.0,4043.0,1.0,0.0,1.0,0.0,Retrato,Dedos
+12416.0,2021-01-11 15:07:40,Aceita,3750.0,2491.0,1.0,1.0,0.0,0.0,Paisagem,Bailarinas
+12416.0,2021-01-11 15:07:40,Aceita,3174.0,2108.0,1.0,1.0,0.0,0.0,Paisagem,Olhares
+12416.0,2021-01-11 15:07:40,Aceita,4255.0,2826.0,1.0,1.0,0.0,0.0,Paisagem,Faraó
+12416.0,2021-01-11 15:07:40,Aceita,2848.0,4288.0,1.0,0.0,1.0,0.0,Retrato,Em frente
+7242.0,2021-01-11 15:07:49,Aceita,2848.0,4272.0,1.0,0.0,1.0,0.0,Retrato,Tenha fés
+7242.0,2021-01-11 15:07:49,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Singeleza
+7242.0,2021-01-11 15:07:49,Aceita,3000.0,1955.0,1.0,1.0,0.0,0.0,Paisagem,Seja analógico (fotografia em filme 35mm)
+7242.0,2021-01-11 15:07:49,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Uma abelha
+12415.0,2021-01-11 15:20:22,Aceita,4506.0,2535.0,1.0,1.0,0.0,0.0,Paisagem,Melancolia
+12415.0,2021-01-11 15:20:22,Aceita,5855.0,3293.0,1.0,1.0,0.0,0.0,Paisagem,Desconstruir-se
+12415.0,2021-01-11 15:20:22,Aceita,5507.0,3098.0,1.0,1.0,0.0,0.0,Paisagem,Ser
+12415.0,2021-01-11 15:20:22,Aceita,6000.0,3368.0,1.0,1.0,0.0,0.0,Paisagem,Essência
+3509.0,2021-01-11 16:52:12,Aceita,5188.0,3590.0,1.0,1.0,0.0,0.0,Paisagem,Chamando no grau
+3509.0,2021-01-11 16:52:12,Aceita,4104.0,2736.0,1.0,1.0,0.0,0.0,Paisagem,Amazona
+3509.0,2021-01-11 16:52:12,Aceita,4475.0,2983.0,1.0,1.0,0.0,0.0,Paisagem,Trabalha
+3509.0,2021-01-11 16:52:12,Aceita,5616.0,3744.0,1.0,1.0,0.0,0.0,Paisagem,Em tempos de pandemia
+12417.0,2021-01-11 19:04:24,Aceita,4898.0,3265.0,1.0,1.0,0.0,0.0,Paisagem,A benção de Deus e dos Santos.
+12417.0,2021-01-11 19:13:59,Aceita,6240.0,4160.0,1.0,1.0,0.0,0.0,Paisagem,Deixa vir a mim os pequeninos porque deles é o REINO DOS CÉUS
+6411.0,2021-01-11 19:17:58,Aceita,3543.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,A Passagem
+6411.0,2021-01-11 19:17:58,Aceita,3834.0,2556.0,1.0,1.0,0.0,0.0,Paisagem,Amor de Gato
+6411.0,2021-01-11 19:17:58,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Folha Seca
+6411.0,2021-01-11 19:17:58,Aceita,5109.0,3406.0,1.0,1.0,0.0,0.0,Paisagem,Paz Eterna
+12417.0,2021-01-11 19:20:15,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,"A mulher é forte, e essa mãe é pai também!"
+12417.0,2021-01-11 19:27:54,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Meu menino... meu pai... meu herói.
+6716.0,2021-01-11 20:11:50,Aceita,3936.0,3936.0,1.0,0.0,0.0,1.0,Quadrada,a viagem
+6716.0,2021-01-11 20:11:50,Aceita,4824.0,3216.0,1.0,1.0,0.0,0.0,Paisagem,por um fio
+6716.0,2021-01-11 20:11:50,Aceita,3856.0,5000.0,1.0,0.0,1.0,0.0,Retrato,entediado
+12419.0,2021-01-11 21:27:15,Aceita,4000.0,2728.0,1.0,1.0,0.0,0.0,Paisagem,Reflexo em Carnaubinha
+4436.0,2021-01-11 22:47:59,Aceita,3896.0,2640.0,1.0,1.0,0.0,0.0,Paisagem,Vó
+4436.0,2021-01-11 22:47:59,Aceita,2907.0,4079.0,1.0,0.0,1.0,0.0,Retrato,Alegria Inocente
+4436.0,2021-01-11 22:47:59,Aceita,3586.0,4896.0,1.0,0.0,1.0,0.0,Retrato,Simbiose
+4436.0,2021-01-11 22:47:59,Aceita,2267.0,3407.0,1.0,0.0,1.0,0.0,Retrato,Piano
+12421.0,2021-01-11 23:24:09,Aceita,5202.0,3468.0,1.0,1.0,0.0,0.0,Paisagem,Moradia
+12421.0,2021-01-11 23:24:09,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Peixe-Boi
+12421.0,2021-01-11 23:24:09,Aceita,5593.0,3729.0,1.0,1.0,0.0,0.0,Paisagem,Pilar
+12421.0,2021-01-11 23:27:30,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Curva Da Ponte
+12147.0,2021-01-11 23:43:32,Aceita,5281.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Comunhão
+12147.0,2021-01-11 23:43:32,Aceita,2953.0,3824.0,1.0,0.0,1.0,0.0,Retrato,Operários e Bicicletas
+12147.0,2021-01-11 23:43:32,Aceita,3543.0,5035.0,1.0,0.0,1.0,0.0,Retrato,Bola em Jogo
+12147.0,2021-01-11 23:43:32,Aceita,2953.0,4603.0,1.0,0.0,1.0,0.0,Retrato,Operários
+12422.0,2021-01-12 10:56:04,Aceita,2734.0,4214.0,1.0,0.0,1.0,0.0,Retrato,O monje
+12422.0,2021-01-12 11:17:56,Aceita,4618.0,3463.0,1.0,1.0,0.0,0.0,Paisagem,Avenida Corrientes
+9551.0,2021-01-12 11:44:22,Aceita,3000.0,2008.0,1.0,1.0,0.0,0.0,Paisagem,O Barbeiro
+9551.0,2021-01-12 11:44:22,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,O Pedreiro
+9551.0,2021-01-12 11:44:22,Aceita,3000.0,1968.0,1.0,1.0,0.0,0.0,Paisagem,O Voo
+9551.0,2021-01-12 11:44:22,Aceita,3000.0,2086.0,1.0,1.0,0.0,0.0,Paisagem,Pandemia
+12425.0,2021-01-12 14:03:08,Aceita,5272.0,3444.0,1.0,1.0,0.0,0.0,Paisagem,Caminante
+12425.0,2021-01-12 14:03:08,Aceita,5387.0,3667.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade
+12425.0,2021-01-12 14:03:08,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Senhoras de Havana
+12425.0,2021-01-12 14:03:08,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Tempestade e calmaria
+12426.0,2021-01-12 14:53:53,Aceita,3000.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Meditação
+12426.0,2021-01-12 15:07:16,Aceita,3000.0,1995.0,1.0,1.0,0.0,0.0,Paisagem,Esperando a pandemia passar
+12426.0,2021-01-12 15:20:22,Aceita,3000.0,2143.0,1.0,1.0,0.0,0.0,Paisagem,A pandemia acabou!
+12426.0,2021-01-12 15:22:40,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,A Fuga
+12173.0,2021-01-12 16:25:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,HORA DO ALMOÇO
+12173.0,2021-01-12 16:25:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,LINHA 6
+12173.0,2021-01-12 16:25:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,UMA CERTA RUA  CLEVELAND
+12173.0,2021-01-12 16:25:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,BRAVO !
+9054.0,2021-01-12 16:26:42,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,Amor incondicional
+9054.0,2021-01-12 16:26:42,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,Trabalhador
+9054.0,2021-01-12 16:26:42,Aceita,3089.0,2048.0,1.0,1.0,0.0,0.0,Paisagem,Artista de Rua
+9054.0,2021-01-12 16:26:42,Aceita,3122.0,4677.0,1.0,0.0,1.0,0.0,Retrato,Ansiedade
+12397.0,2021-01-12 17:16:22,Aceita,3646.0,2506.0,1.0,1.0,0.0,0.0,Paisagem,Ponto de Vista
+12397.0,2021-01-12 17:21:50,Aceita,4503.0,3558.0,1.0,1.0,0.0,0.0,Paisagem,João 'Grilo'
+12397.0,2021-01-12 17:26:11,Aceita,3000.0,2128.0,1.0,1.0,0.0,0.0,Paisagem,Cortona
+12397.0,2021-01-12 17:30:39,Aceita,3100.0,2030.0,1.0,1.0,0.0,0.0,Paisagem,Santillana
+521.0,2021-01-12 17:38:20,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Conjunto Nacional
+521.0,2021-01-12 17:38:20,Aceita,4724.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Valongo de Santos
+521.0,2021-01-12 17:38:20,Aceita,5760.0,3840.0,1.0,1.0,0.0,0.0,Paisagem,Nia
+521.0,2021-01-12 17:38:20,Aceita,5616.0,3744.0,1.0,1.0,0.0,0.0,Paisagem,Itaoquense
+10010.0,2021-01-12 17:57:53,Aceita,4128.0,2322.0,1.0,1.0,0.0,0.0,Paisagem,Barraca
+10010.0,2021-01-12 17:57:53,Aceita,4128.0,2322.0,1.0,1.0,0.0,0.0,Paisagem,pedra
+12162.0,2021-01-12 18:10:42,Aceita,3543.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,Benção
+12162.0,2021-01-12 18:10:42,Aceita,2362.0,3543.0,1.0,0.0,1.0,0.0,Retrato,Domingo na Paulista
+12162.0,2021-01-12 18:10:42,Aceita,1700.0,3543.0,1.0,0.0,1.0,0.0,Retrato,Entrelinhas
+12162.0,2021-01-12 18:10:42,Aceita,5315.0,3580.0,1.0,1.0,0.0,0.0,Paisagem,Esperando tempo bom
+12409.0,2021-01-13 00:06:50,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,em linha
+12409.0,2021-01-13 00:06:50,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,moldando o remo
+12414.0,2021-01-13 08:04:58,Aceita,3854.0,4977.0,1.0,0.0,1.0,0.0,Retrato,Razão
+12429.0,2021-01-13 11:28:54,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Teleférico do Vulcão Osorno
+12429.0,2021-01-13 11:28:54,Aceita,5803.0,3869.0,1.0,1.0,0.0,0.0,Paisagem,Estrada para casa
+12429.0,2021-01-13 11:28:54,Aceita,5043.0,3342.0,1.0,1.0,0.0,0.0,Paisagem,Em tempos de pandemia: Cada um na sua casa
+12429.0,2021-01-13 11:28:54,Aceita,5504.0,3869.0,1.0,1.0,0.0,0.0,Paisagem,Ruínas Jesuíticas
+3729.0,2021-01-13 15:34:18,Aceita,1993.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Do Batuque
+3729.0,2021-01-13 15:34:18,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,Umbigada
+12431.0,2021-01-13 17:31:40,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Dualidade
+12431.0,2021-01-13 17:31:40,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Ilha Fiscal
+12431.0,2021-01-13 17:31:40,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,New York
+12431.0,2021-01-13 17:31:40,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Píer
+12432.0,2021-01-13 18:21:05,Aceita,4434.0,2956.0,1.0,1.0,0.0,0.0,Paisagem,Cotidiano
+12432.0,2021-01-13 18:21:05,Aceita,2826.0,4241.0,1.0,0.0,1.0,0.0,Retrato,Mãe e filho
+12432.0,2021-01-13 18:21:05,Aceita,3227.0,4840.0,1.0,0.0,1.0,0.0,Retrato,Bela Garça
+12432.0,2021-01-13 20:12:41,Aceita,3404.0,5105.0,1.0,0.0,1.0,0.0,Retrato,Cactos: a sombra
+12433.0,2021-01-13 21:31:19,Aceita,14173.0,10629.0,1.0,1.0,0.0,0.0,Paisagem,Xadrez
+12433.0,2021-01-13 21:34:55,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Escala humana no mar
+12433.0,2021-01-13 21:37:21,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Pausa para a foto
+12433.0,2021-01-13 21:41:12,Aceita,3389.0,5083.0,1.0,0.0,1.0,0.0,Retrato,Altinha
+12420.0,2021-01-14 00:26:27,Aceita,2848.0,4272.0,1.0,0.0,1.0,0.0,Retrato,A Brisa Do Nordeste
+12420.0,2021-01-14 00:26:27,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Julin De Tia Lica
+6335.0,2021-01-14 07:30:49,Aceita,2828.0,4242.0,1.0,0.0,1.0,0.0,Retrato,Porto seguro.
+6335.0,2021-01-14 07:30:49,Aceita,4242.0,2828.0,1.0,1.0,0.0,0.0,Paisagem,Saudando visitantes.
+6335.0,2021-01-14 07:30:49,Aceita,4242.0,2828.0,1.0,1.0,0.0,0.0,Paisagem,À luz da janela.......
+6335.0,2021-01-14 07:30:49,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,De quem é o prêmio?
+12436.0,2021-01-14 08:10:28,Aceita,2400.0,3584.0,1.0,0.0,1.0,0.0,Retrato,Pai Cigano
+12436.0,2021-01-14 08:10:28,Aceita,3584.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Crianças Ciganas
+12436.0,2021-01-14 08:10:28,Aceita,3584.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Click Cigano
+12428.0,2021-01-14 09:04:35,Aceita,2796.0,3228.0,1.0,0.0,1.0,0.0,Retrato,CHARLIE DESCONTRAIDO
+12428.0,2021-01-14 09:42:45,Aceita,2848.0,4273.0,1.0,0.0,1.0,0.0,Retrato,FADA MISTERIOSA
+12428.0,2021-01-14 09:43:29,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,FELICIDADE
+12428.0,2021-01-14 09:47:30,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,TREM EM PARTIDA
+9523.0,2021-01-14 12:35:32,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Araucária
+9523.0,2021-01-14 12:35:32,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Trigo
+9523.0,2021-01-14 12:35:32,Aceita,3648.0,2736.0,1.0,1.0,0.0,0.0,Paisagem,Geometria
+9523.0,2021-01-14 12:35:32,Aceita,3648.0,2736.0,1.0,1.0,0.0,0.0,Paisagem,Reflexos e formas
+12423.0,2021-01-14 17:19:20,Aceita,3000.0,3749.0,1.0,0.0,1.0,0.0,Retrato,Solitário
+12423.0,2021-01-14 17:19:20,Aceita,2400.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Iluminados
+12423.0,2021-01-14 17:19:20,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Corpo Estranho
+12423.0,2021-01-14 17:19:20,Aceita,3000.0,2145.0,1.0,1.0,0.0,0.0,Paisagem,Último Olhar
+6381.0,2021-01-14 21:35:11,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Elefantes
+6381.0,2021-01-14 21:35:11,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Bagagem de vida
+6381.0,2021-01-14 21:35:11,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Cachimbeiro
+6381.0,2021-01-14 21:39:08,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Sobre as águas
+4351.0,2021-01-15 06:31:00,Aceita,4664.0,3389.0,1.0,1.0,0.0,0.0,Paisagem,Dia Chuvoso
+4351.0,2021-01-15 06:31:00,Aceita,4849.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Estação
+4351.0,2021-01-15 06:31:00,Aceita,4036.0,2970.0,1.0,1.0,0.0,0.0,Paisagem,Caminhos
+4351.0,2021-01-15 06:34:38,Aceita,3223.0,5022.0,1.0,0.0,1.0,0.0,Retrato,Um dia qualquer
+12434.0,2021-01-15 08:55:04,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Gente da Caatinga - Cavalo de Aço
+12434.0,2021-01-15 08:55:04,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Gente da Caatinga - Compras na Cidade
+12434.0,2021-01-15 08:55:04,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Gente da Caatinga - Hora de Buscar Água
+9517.0,2021-01-15 10:17:40,Aceita,3977.0,2651.0,1.0,1.0,0.0,0.0,Paisagem,Trabalho
+9517.0,2021-01-15 10:28:57,Aceita,3736.0,2458.0,1.0,1.0,0.0,0.0,Paisagem,Névoa
+12434.0,2021-01-15 11:04:28,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Gente da Caatinga - Entre a seca e a esperança
+4447.0,2021-01-15 11:44:11,Aceita,4500.0,3300.0,1.0,1.0,0.0,0.0,Paisagem,Simetria
+4447.0,2021-01-15 11:44:11,Aceita,3900.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Espelho
+4447.0,2021-01-15 11:44:11,Aceita,4500.0,2700.0,1.0,1.0,0.0,0.0,Paisagem,Luzes
+12438.0,2021-01-15 11:46:49,Aceita,3893.0,2781.0,1.0,1.0,0.0,0.0,Paisagem,A Cruz e a Cidade
+4447.0,2021-01-15 11:47:30,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Marcas da Vida
+12438.0,2021-01-15 11:55:37,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Pequenos Brasileiros
+12438.0,2021-01-15 12:01:09,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Batalha dos Doces
+9517.0,2021-01-15 13:37:48,Aceita,3397.0,2265.0,1.0,1.0,0.0,0.0,Paisagem,Na janela
+9517.0,2021-01-15 13:37:48,Aceita,4639.0,3093.0,1.0,1.0,0.0,0.0,Paisagem,Simplicidade
+3729.0,2021-01-15 14:10:29,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,Folieiro
+3729.0,2021-01-15 14:10:29,Aceita,2008.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Esperando o Divino
+6391.0,2021-01-15 14:16:51,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,AO ENCONTRO DA LUZ
+12441.0,2021-01-15 14:18:26,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,Pelada_01
+12441.0,2021-01-15 14:18:26,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,Pelada_02
+12441.0,2021-01-15 14:19:17,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,Pelada_03
+6391.0,2021-01-15 14:41:02,Aceita,3700.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,FACE TO FACE
+6391.0,2021-01-15 14:41:02,Aceita,3100.0,3500.0,1.0,0.0,1.0,0.0,Retrato,GEOMETRICAMENTE
+6391.0,2021-01-15 14:41:50,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,AO ENCONTRO DA LUZ
+12443.0,2021-01-15 17:04:46,Aceita,4046.0,2692.0,1.0,1.0,0.0,0.0,Paisagem,A dança
+12443.0,2021-01-15 17:04:46,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,Simbiose
+12443.0,2021-01-15 17:07:15,Aceita,3280.0,2183.0,1.0,1.0,0.0,0.0,Paisagem,Lockdown
+12443.0,2021-01-15 17:07:15,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,Olhando para Cima
+12444.0,2021-01-15 18:07:09,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,CCBB no Rio
+12444.0,2021-01-15 18:07:09,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Sombras aparecidas
+12444.0,2021-01-15 18:09:19,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Uma janela
+12444.0,2021-01-15 18:09:19,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Infinito vão
+5830.0,2021-01-15 20:44:01,Aceita,2803.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Águas de São Paulo
+5830.0,2021-01-15 20:44:01,Aceita,3648.0,4556.0,1.0,0.0,1.0,0.0,Retrato,Pândemia
+5830.0,2021-01-15 20:46:55,Aceita,2224.0,3520.0,1.0,0.0,1.0,0.0,Retrato,Defensor da Pátria
+5830.0,2021-01-15 21:04:14,Aceita,3481.0,5373.0,1.0,0.0,1.0,0.0,Retrato,Dom Quixote
+12445.0,2021-01-15 23:42:35,Aceita,3295.0,2183.0,1.0,1.0,0.0,0.0,Paisagem,Caboclo de Lança
+12445.0,2021-01-15 23:42:35,Aceita,3328.0,2163.0,1.0,1.0,0.0,0.0,Paisagem,Maracatu Piaba de Ouro
+12445.0,2021-01-15 23:44:20,Aceita,3295.0,2183.0,1.0,1.0,0.0,0.0,Paisagem,Maracatu Rural
+12445.0,2021-01-15 23:44:20,Aceita,3040.0,2368.0,1.0,1.0,0.0,0.0,Paisagem,Maracatu
+12448.0,2021-01-16 10:35:52,Aceita,3200.0,2128.0,1.0,1.0,0.0,0.0,Paisagem,Motoescola
+12448.0,2021-01-16 10:35:52,Aceita,3200.0,2128.0,1.0,1.0,0.0,0.0,Paisagem,Homem Janela
+12448.0,2021-01-16 10:36:43,Aceita,3200.0,2133.0,1.0,1.0,0.0,0.0,Paisagem,2 Reias
+12448.0,2021-01-16 10:36:43,Aceita,3200.0,2134.0,1.0,1.0,0.0,0.0,Paisagem,Valtinho
+12449.0,2021-01-16 14:50:29,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Nervo Exposto III
+12449.0,2021-01-16 14:57:03,Aceita,3000.0,2001.0,1.0,1.0,0.0,0.0,Paisagem,Lar dos Encantados
+12449.0,2021-01-16 15:04:14,Aceita,3705.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Nascido do Mangue
+12449.0,2021-01-16 15:04:14,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Adonai
+4446.0,2021-01-16 16:45:28,Aceita,5000.0,3440.0,1.0,1.0,0.0,0.0,Paisagem,Degrau por degrau
+4446.0,2021-01-16 16:45:28,Aceita,3324.0,5000.0,1.0,0.0,1.0,0.0,Retrato,Retrato
+4446.0,2021-01-16 16:47:20,Aceita,5000.0,3324.0,1.0,1.0,0.0,0.0,Paisagem,Somos passageiros
+4446.0,2021-01-16 16:47:20,Aceita,5153.0,3865.0,1.0,1.0,0.0,0.0,Paisagem,Turismo no porto
+12447.0,2021-01-16 17:43:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Tempestade
+12447.0,2021-01-16 17:43:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Iemanjá
+12447.0,2021-01-16 17:44:09,Aceita,3000.0,2289.0,1.0,1.0,0.0,0.0,Paisagem,Futmesa
+12447.0,2021-01-16 17:44:09,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Pescadores
+12450.0,2021-01-16 20:46:36,Aceita,1987.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Canos
+12450.0,2021-01-16 20:46:36,Aceita,1987.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Urbana
+12450.0,2021-01-16 20:57:28,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,Fim de Expediente
+12450.0,2021-01-16 20:57:28,Aceita,1998.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Abandono
+1204.0,2021-01-17 11:28:17,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,Folhas no Céu
+1204.0,2021-01-17 11:28:17,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Caminho Silencioso
+1204.0,2021-01-17 11:29:32,Aceita,4813.0,3209.0,1.0,1.0,0.0,0.0,Paisagem,Estradas de Ferro
+1204.0,2021-01-17 11:29:32,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Cidade Inquieta
+1739.0,2021-01-17 15:53:49,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Medos
+1739.0,2021-01-17 15:53:49,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,O que de frágil me habita
+1739.0,2021-01-17 15:54:25,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O grito
+1739.0,2021-01-17 15:54:25,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,Nós
+12452.0,2021-01-17 19:31:11,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Estrangeiro em si
+12452.0,2021-01-17 19:53:27,Aceita,3072.0,4608.0,1.0,0.0,1.0,0.0,Retrato,Estrangeiro em si (2)
+12452.0,2021-01-17 19:53:27,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Estrangeiro em si (3)
+12452.0,2021-01-17 19:54:35,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Estrangeiro em si (4)
+4734.0,2021-01-17 20:08:49,Aceita,3000.0,1924.0,1.0,1.0,0.0,0.0,Paisagem,Meninos do Barreiro
+4734.0,2021-01-17 20:08:49,Aceita,3000.0,2384.0,1.0,1.0,0.0,0.0,Paisagem,Oleiro do Canta Galo
+4734.0,2021-01-17 20:09:59,Aceita,3000.0,1898.0,1.0,1.0,0.0,0.0,Paisagem,Pedinte
+4734.0,2021-01-17 20:09:59,Aceita,3000.0,2350.0,1.0,1.0,0.0,0.0,Paisagem,Viajando nas Letras
+6734.0,2021-01-17 20:56:33,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Dançando com a Vida e a Morte
+6734.0,2021-01-17 20:56:33,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Dançando com a Vida e a Morte
+6734.0,2021-01-17 21:02:04,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Dançando com a Vida e a Morte
+6734.0,2021-01-17 21:02:04,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Dançando com a Vida e a Morte
+8773.0,2021-01-17 21:36:33,Aceita,5416.0,3869.0,1.0,1.0,0.0,0.0,Paisagem,Cadê meu chinelo?
+8773.0,2021-01-17 21:36:33,Aceita,3862.0,2759.0,1.0,1.0,0.0,0.0,Paisagem,Gammelt vindu
+8773.0,2021-01-17 21:40:02,Aceita,4111.0,3177.0,1.0,1.0,0.0,0.0,Paisagem,Hue hue hue
+8773.0,2021-01-17 21:40:02,Aceita,5180.0,3453.0,1.0,1.0,0.0,0.0,Paisagem,Cadê todo mundo?
+3704.0,2021-01-18 10:23:03,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Devoção
+3704.0,2021-01-18 10:23:03,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Devoção
+3704.0,2021-01-18 10:24:41,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Guerra Urbana
+3704.0,2021-01-18 10:24:41,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Guerra Urbana
+12453.0,2021-01-18 11:24:04,Aceita,2366.0,4200.0,1.0,0.0,1.0,0.0,Retrato,Série Corpo Presença Identidade 1
+12453.0,2021-01-18 11:24:04,Aceita,2366.0,4200.0,1.0,0.0,1.0,0.0,Retrato,Série Corpo Presença Identidade 2
+3697.0,2021-01-18 13:28:40,Aceita,3000.0,2033.0,1.0,1.0,0.0,0.0,Paisagem,Pescador
+3697.0,2021-01-18 13:28:40,Aceita,3000.0,2020.0,1.0,1.0,0.0,0.0,Paisagem,Natureza
+3697.0,2021-01-18 13:30:26,Aceita,3000.0,2041.0,1.0,1.0,0.0,0.0,Paisagem,Sozinho
+3697.0,2021-01-18 13:30:26,Aceita,3000.0,2136.0,1.0,1.0,0.0,0.0,Paisagem,Da Janela
+2001.0,2021-01-18 13:59:25,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,Lembranças de Laguna
+12454.0,2021-01-18 15:43:36,Aceita,4096.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Série: 'I love COVID'.
+12454.0,2021-01-18 15:43:36,Aceita,4096.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Série: 'I Love COVID'.
+12454.0,2021-01-18 15:51:12,Aceita,4096.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Série: 'I love COVID'.
+12454.0,2021-01-18 15:55:07,Aceita,4096.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Série: 'I love COVID'.
+1507.0,2021-01-18 16:04:38,Aceita,4096.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Esperando a bonança
+1163.0,2021-01-18 18:43:35,Aceita,2500.0,3775.0,1.0,0.0,1.0,0.0,Retrato,Imponência
+1163.0,2021-01-18 18:43:35,Aceita,3775.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Fiéis Companheiros
+12458.0,2021-01-18 18:47:20,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,CANÁRIO NOVEL
+12458.0,2021-01-18 18:47:20,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,MENINO DO RIO
+12458.0,2021-01-18 18:48:08,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,REFLEXÃO
+1163.0,2021-01-18 18:49:43,Aceita,3775.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Old Tecnologic
+1163.0,2021-01-18 18:49:43,Aceita,3500.0,2346.0,1.0,1.0,0.0,0.0,Paisagem,Peão na lida
+12458.0,2021-01-18 18:58:16,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,REI DA MARAMBAIA
+12457.0,2021-01-18 19:04:52,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,Esperança
+12457.0,2021-01-18 19:04:52,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Espera
+12457.0,2021-01-18 19:05:57,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Geração
+12457.0,2021-01-18 19:05:57,Aceita,4288.0,2859.0,1.0,1.0,0.0,0.0,Paisagem,Fé
+1177.0,2021-01-18 19:27:29,Aceita,3353.0,2415.0,1.0,1.0,0.0,0.0,Paisagem,lenhador
+10596.0,2021-01-18 19:55:14,Aceita,3000.0,1995.0,1.0,1.0,0.0,0.0,Paisagem,Ofício do mar
+10596.0,2021-01-18 19:55:14,Aceita,3000.0,1995.0,1.0,1.0,0.0,0.0,Paisagem,Arrebentação
+10596.0,2021-01-18 19:55:56,Aceita,3000.0,1995.0,1.0,1.0,0.0,0.0,Paisagem,O vazio da espera
+10596.0,2021-01-18 19:55:56,Aceita,3000.0,1913.0,1.0,1.0,0.0,0.0,Paisagem,Águas calmas
+3511.0,2021-01-18 22:01:02,Aceita,2883.0,4324.0,1.0,0.0,1.0,0.0,Retrato,Balaios
+3511.0,2021-01-18 22:04:20,Aceita,4763.0,3190.0,1.0,1.0,0.0,0.0,Paisagem,Asas
+3511.0,2021-01-18 22:22:59,Aceita,6708.0,4472.0,1.0,1.0,0.0,0.0,Paisagem,Bola de Cristal
+12211.0,2021-01-18 23:18:25,Aceita,5315.0,3510.0,1.0,1.0,0.0,0.0,Paisagem,Padre Cícero
+12211.0,2021-01-18 23:18:25,Aceita,4724.0,3202.0,1.0,1.0,0.0,0.0,Paisagem,Vista
+9085.0,2021-01-19 01:02:29,Aceita,5944.0,3768.0,1.0,1.0,0.0,0.0,Paisagem,Abandono N°1
+9085.0,2021-01-19 01:02:29,Aceita,4612.0,3493.0,1.0,1.0,0.0,0.0,Paisagem,Abandono N°2
+9085.0,2021-01-19 01:04:23,Aceita,5689.0,3499.0,1.0,1.0,0.0,0.0,Paisagem,Abandono N°3
+9085.0,2021-01-19 01:04:23,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Abandono N°4
+3649.0,2021-01-19 01:27:28,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Identidade
+3649.0,2021-01-19 01:27:28,Aceita,4592.0,3056.0,1.0,1.0,0.0,0.0,Paisagem,Força Quilombola
+3649.0,2021-01-19 01:28:58,Aceita,3400.0,5100.0,1.0,0.0,1.0,0.0,Retrato,A mãe ouve seu filho (Eu sinto sua dor)
+3649.0,2021-01-19 01:28:58,Aceita,3600.0,5400.0,1.0,0.0,1.0,0.0,Retrato,Chamado de Iemanjá
+11213.0,2021-01-19 11:47:36,Aceita,4500.0,3239.0,1.0,1.0,0.0,0.0,Paisagem,Sutileza no ar
+11213.0,2021-01-19 11:47:36,Aceita,2448.0,3000.0,1.0,0.0,1.0,0.0,Retrato,homem natureza
+11213.0,2021-01-19 11:49:16,Aceita,3000.0,2448.0,1.0,1.0,0.0,0.0,Paisagem,Meu Pet
+11213.0,2021-01-19 11:49:16,Aceita,8533.0,8533.0,1.0,0.0,0.0,1.0,Quadrada,O movimento Heavy-Metal
+3699.0,2021-01-19 14:28:34,Aceita,3606.0,2653.0,1.0,1.0,0.0,0.0,Paisagem,Alem do horizonte
+3699.0,2021-01-19 14:30:10,Aceita,5569.0,3713.0,1.0,1.0,0.0,0.0,Paisagem,As quatro irmãs
+3699.0,2021-01-19 14:30:10,Aceita,4288.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Futebol moleque
+3699.0,2021-01-19 14:30:50,Aceita,5064.0,3628.0,1.0,1.0,0.0,0.0,Paisagem,Vendo a banda passar
+12441.0,2021-01-19 15:51:42,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,Pelada_04
+12462.0,2021-01-19 18:00:52,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Dura Infância
+12462.0,2021-01-19 18:00:52,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Amnésia
+12462.0,2021-01-19 18:05:31,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,A Gruta
+12462.0,2021-01-19 18:05:31,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Ritual
+12463.0,2021-01-19 18:17:57,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,O amor através do olhar
+12463.0,2021-01-19 18:17:57,Aceita,3297.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Á moda antiga
+11202.0,2021-01-19 19:25:11,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Escada Caracol
+11202.0,2021-01-19 19:25:11,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,Farol do Quintandinha em longa exposição
+11202.0,2021-01-19 19:25:53,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Sonhadora
+11202.0,2021-01-19 19:26:43,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Cachorro do Vizinho
+10374.0,2021-01-19 19:44:33,Aceita,4032.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,Apelo
+10374.0,2021-01-19 19:44:33,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Manhã de domingo
+10374.0,2021-01-19 19:45:26,Aceita,4042.0,2695.0,1.0,1.0,0.0,0.0,Paisagem,Coragem
+10374.0,2021-01-19 19:45:26,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Escolhas
+3517.0,2021-01-19 20:36:46,Aceita,2287.0,3000.0,1.0,0.0,1.0,0.0,Retrato,AMIGA DOS CAES
+3517.0,2021-01-19 20:36:46,Aceita,3000.0,2287.0,1.0,1.0,0.0,0.0,Paisagem,NIPÔNICO
+3517.0,2021-01-19 20:38:32,Aceita,2287.0,3000.0,1.0,0.0,1.0,0.0,Retrato,O CARNEIRO E O CAIPIRA
+3517.0,2021-01-19 20:38:32,Aceita,3000.0,2287.0,1.0,1.0,0.0,0.0,Paisagem,VIDA DE GADO
+6415.0,2021-01-19 21:24:00,Aceita,3375.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Igreja do Sagrado Coração de Jesus - Colônia Esperança - Arapongas PR
+6415.0,2021-01-20 07:38:35,Aceita,3840.0,5760.0,1.0,0.0,1.0,0.0,Retrato,vinícola La Dorni - Bandeirantes Pr
+12464.0,2021-01-20 08:11:51,Aceita,5271.0,3514.0,1.0,1.0,0.0,0.0,Paisagem,Prisão mental
+12464.0,2021-01-20 08:13:22,Aceita,5760.0,3840.0,1.0,1.0,0.0,0.0,Paisagem,Medo
+12464.0,2021-01-20 08:27:43,Aceita,5760.0,3840.0,1.0,1.0,0.0,0.0,Paisagem,Amor de mãe
+12465.0,2021-01-20 09:51:52,Aceita,3077.0,4307.0,1.0,0.0,1.0,0.0,Retrato,A Dançarina
+12465.0,2021-01-20 09:51:52,Aceita,2667.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Carinho
+12465.0,2021-01-20 09:53:54,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Deusa das Dunas
+12465.0,2021-01-20 09:53:54,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Noiva do Deserto
+4432.0,2021-01-20 10:44:25,Aceita,4724.0,3149.0,1.0,1.0,0.0,0.0,Paisagem,Ceres et Triticum
+4432.0,2021-01-20 10:44:25,Aceita,4700.0,2824.0,1.0,1.0,0.0,0.0,Paisagem,Túnel do tempo
+4432.0,2021-01-20 10:46:00,Aceita,4624.0,3073.0,1.0,1.0,0.0,0.0,Paisagem,La esquila
+4432.0,2021-01-20 10:46:00,Aceita,4729.0,3160.0,1.0,1.0,0.0,0.0,Paisagem,Angels on wheels
+1009.0,2021-01-20 11:53:04,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Guepardo
+1009.0,2021-01-20 11:55:08,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O Tempo e a Mare
+1009.0,2021-01-20 11:55:08,Aceita,3000.0,1974.0,1.0,1.0,0.0,0.0,Paisagem,Arvore Solitaria
+1009.0,2021-01-20 11:56:42,Aceita,3000.0,2016.0,1.0,1.0,0.0,0.0,Paisagem,Pier
+8750.0,2021-01-20 15:41:09,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Barcos
+8750.0,2021-01-20 15:41:09,Aceita,3785.0,2838.0,1.0,1.0,0.0,0.0,Paisagem,Jangadeiro
+8750.0,2021-01-20 15:42:40,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Refletindo a passagem
+8750.0,2021-01-20 15:42:40,Aceita,3299.0,2190.0,1.0,1.0,0.0,0.0,Paisagem,Salto para o mergulho
+12469.0,2021-01-20 16:32:41,Aceita,5411.0,7276.0,1.0,0.0,1.0,0.0,Retrato,Mulheres fortes (2)
+12469.0,2021-01-20 16:34:00,Aceita,6201.0,4134.0,1.0,1.0,0.0,0.0,Paisagem,Mulheres Negras (2)
+12469.0,2021-01-20 16:40:45,Aceita,3229.0,4445.0,1.0,0.0,1.0,0.0,Retrato,Transparência
+12469.0,2021-01-20 17:07:40,Aceita,3047.0,4063.0,1.0,0.0,1.0,0.0,Retrato,Zambra Moura
+12470.0,2021-01-20 18:37:49,Aceita,2400.0,3600.0,1.0,0.0,1.0,0.0,Retrato,Asas pra voar
+12470.0,2021-01-20 18:43:15,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Uma pessoa normal faz tudo isso
+12472.0,2021-01-20 22:14:00,Aceita,5012.0,3341.0,1.0,1.0,0.0,0.0,Paisagem,Esperando por alguém
+12472.0,2021-01-20 22:14:00,Aceita,3507.0,2338.0,1.0,1.0,0.0,0.0,Paisagem,Olhos da pandemia
+12472.0,2021-01-20 22:20:23,Aceita,5701.0,3801.0,1.0,1.0,0.0,0.0,Paisagem,Descanso merecido
+12472.0,2021-01-20 22:20:23,Aceita,5880.0,3920.0,1.0,1.0,0.0,0.0,Paisagem,Amigos para sempre
+12395.0,2021-01-21 01:43:04,Aceita,3706.0,2007.0,1.0,1.0,0.0,0.0,Paisagem,Harmonia
+12395.0,2021-01-21 01:53:48,Aceita,4031.0,2709.0,1.0,1.0,0.0,0.0,Paisagem,Arte
+12395.0,2021-01-21 01:53:48,Aceita,4032.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,Havana
+9841.0,2021-01-21 07:08:32,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Não tem idade para fotografar
+9841.0,2021-01-21 07:08:32,Aceita,1908.0,3816.0,1.0,0.0,1.0,0.0,Retrato,Trabalhador de Inhotim
+9841.0,2021-01-21 07:10:05,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Vista panorâmica
+6415.0,2021-01-21 11:29:50,Aceita,3841.0,3039.0,1.0,1.0,0.0,0.0,Paisagem,modelo Keila
+6415.0,2021-01-21 11:43:31,Aceita,5760.0,3840.0,1.0,1.0,0.0,0.0,Paisagem,sunset
+12474.0,2021-01-21 12:08:06,Aceita,3456.0,2304.0,1.0,1.0,0.0,0.0,Paisagem,Em meio ao público
+12474.0,2021-01-21 12:08:06,Aceita,3456.0,2304.0,1.0,1.0,0.0,0.0,Paisagem,Que o show comece
+12474.0,2021-01-21 12:28:05,Aceita,4928.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Folia de Reis em São Gonçalo
+12474.0,2021-01-21 12:30:12,Aceita,3456.0,2304.0,1.0,1.0,0.0,0.0,Paisagem,Primeira Fila
+1500.0,2021-01-21 13:39:57,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Última jogada
+1500.0,2021-01-21 13:39:57,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Vida no campo
+1500.0,2021-01-21 13:43:16,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Pré wedding
+1500.0,2021-01-21 13:43:16,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Amor nas alturas
+12467.0,2021-01-21 13:54:37,Aceita,4000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Luz e sombra
+12467.0,2021-01-21 14:04:20,Aceita,2250.0,4000.0,1.0,0.0,1.0,0.0,Retrato,As várias faces da solidão
+12467.0,2021-01-21 14:15:18,Aceita,2250.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Poema: O apanhador de desperdícios..Meu quintal é maior que o mundo.
+12467.0,2021-01-21 14:22:36,Aceita,2250.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Luz e sombra
+12442.0,2021-01-21 15:56:54,Aceita,2229.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Harmonia.
+12442.0,2021-01-21 15:56:54,Aceita,2427.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Natural.
+12442.0,2021-01-21 15:58:02,Aceita,1974.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Concreto.
+12442.0,2021-01-21 15:59:15,Aceita,2298.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Tons De Calma.
+12460.0,2021-01-21 16:58:13,Aceita,3648.0,2736.0,1.0,1.0,0.0,0.0,Paisagem,no balanço das horas
+12460.0,2021-01-21 16:58:13,Aceita,3586.0,2674.0,1.0,1.0,0.0,0.0,Paisagem,surrupio
+12460.0,2021-01-21 17:00:35,Aceita,3648.0,2736.0,1.0,1.0,0.0,0.0,Paisagem,natureza humana
+12460.0,2021-01-21 17:00:35,Aceita,3536.0,2649.0,1.0,1.0,0.0,0.0,Paisagem,MC Caranguejo
+4203.0,2021-01-21 17:19:32,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Musas Gregas
+4203.0,2021-01-21 17:33:41,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Reflexo
+12475.0,2021-01-21 17:35:48,Aceita,6125.0,4084.0,1.0,1.0,0.0,0.0,Paisagem,Jessica
+4203.0,2021-01-21 17:46:39,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Vale Encantado
+12475.0,2021-01-21 17:48:43,Aceita,5705.0,3804.0,1.0,1.0,0.0,0.0,Paisagem,Renata
+12475.0,2021-01-21 17:48:43,Aceita,4988.0,3325.0,1.0,1.0,0.0,0.0,Paisagem,Maria
+12475.0,2021-01-21 17:49:40,Aceita,6480.0,4320.0,1.0,1.0,0.0,0.0,Paisagem,Bella
+12427.0,2021-01-21 18:49:47,Aceita,4000.0,4550.0,1.0,0.0,1.0,0.0,Retrato,O Bonde
+12427.0,2021-01-21 19:10:13,Aceita,5014.0,3343.0,1.0,1.0,0.0,0.0,Paisagem,Aquela tarde
+12427.0,2021-01-21 19:12:17,Aceita,5877.0,3815.0,1.0,1.0,0.0,0.0,Paisagem,A cura
+12427.0,2021-01-21 19:16:00,Aceita,4000.0,5414.0,1.0,0.0,1.0,0.0,Retrato,Solidão
+4478.0,2021-01-21 21:52:04,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,bruxas
+4478.0,2021-01-21 21:59:41,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Senhor Zé
+4478.0,2021-01-21 21:59:41,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,marcha soldados
+12479.0,2021-01-22 15:29:42,Aceita,3104.0,4192.0,1.0,0.0,1.0,0.0,Retrato,caminhos da Luz
+12479.0,2021-01-22 15:31:00,Aceita,3104.0,4192.0,1.0,0.0,1.0,0.0,Retrato,Alcance
+12479.0,2021-01-22 15:31:34,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Ciclo
+12476.0,2021-01-22 16:07:17,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Reflexo da chuva
+12476.0,2021-01-22 16:07:17,Aceita,4608.0,2340.0,1.0,1.0,0.0,0.0,Paisagem,Solidariedade.
+12476.0,2021-01-22 16:13:21,Aceita,4608.0,2340.0,1.0,1.0,0.0,0.0,Paisagem,Mundo alheio Praça da Sé.
+12476.0,2021-01-22 16:13:21,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,Olho no click
+12480.0,2021-01-22 21:19:42,Aceita,2386.0,3181.0,1.0,0.0,1.0,0.0,Retrato,Solitude
+12484.0,2021-01-23 12:56:40,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,O caminho do Vencedor
+12484.0,2021-01-23 12:56:40,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,Esperança
+12484.0,2021-01-23 13:03:27,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,Sobrevivente
+12484.0,2021-01-23 13:06:18,Aceita,3000.0,1993.0,1.0,1.0,0.0,0.0,Paisagem,Multiplicação
+11188.0,2021-01-23 13:33:50,Aceita,5801.0,3934.0,1.0,1.0,0.0,0.0,Paisagem,Estação Ferroviaria - Arquitetura Arte
+11188.0,2021-01-23 13:41:09,Aceita,4708.0,3139.0,1.0,1.0,0.0,0.0,Paisagem,Uma GotaNo Reflexo
+11188.0,2021-01-23 13:41:09,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Natureza em seu detalhe
+12479.0,2021-01-23 13:58:19,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Julian
+12485.0,2021-01-23 15:58:52,Aceita,3072.0,4096.0,1.0,0.0,1.0,0.0,Retrato,Pets
+3653.0,2021-01-23 16:59:25,Aceita,4273.0,2850.0,1.0,1.0,0.0,0.0,Paisagem,Distância
+3653.0,2021-01-23 16:59:25,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Beleza
+3653.0,2021-01-23 17:01:14,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Espera
+3653.0,2021-01-23 17:01:14,Aceita,3494.0,2330.0,1.0,1.0,0.0,0.0,Paisagem,Infância
+11196.0,2021-01-23 18:19:20,Aceita,3311.0,4636.0,1.0,0.0,1.0,0.0,Retrato,Expressionismo Art Noveau
+11196.0,2021-01-23 18:19:20,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Decorrência
+11196.0,2021-01-23 18:23:50,Aceita,5906.0,3937.0,1.0,1.0,0.0,0.0,Paisagem,Volver
+11196.0,2021-01-23 18:23:50,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Deus e o Diabo na Terra do Sol
+12486.0,2021-01-23 18:41:06,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Amanda Barros
+12486.0,2021-01-23 18:41:06,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Alcione Marrom
+1919.0,2021-01-23 21:19:23,Aceita,4617.0,3800.0,1.0,1.0,0.0,0.0,Paisagem,Dança
+1919.0,2021-01-23 21:19:23,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Performer Juliano Hollivier
+12192.0,2021-01-23 21:47:02,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Remadores
+12192.0,2021-01-23 21:47:02,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Sincronia
+12192.0,2021-01-23 21:50:25,Aceita,4096.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Submundo
+12192.0,2021-01-23 21:50:25,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Retro
+12466.0,2021-01-24 09:06:21,Aceita,4000.0,2248.0,1.0,1.0,0.0,0.0,Paisagem,Só Observando.
+12466.0,2021-01-24 09:06:21,Aceita,4000.0,2248.0,1.0,1.0,0.0,0.0,Paisagem,Observando a beleza entre a natureza o movimento da cidade.
+12466.0,2021-01-24 09:07:55,Aceita,4000.0,2248.0,1.0,1.0,0.0,0.0,Paisagem,Descansando sobre o sol!!!
+12466.0,2021-01-24 09:07:55,Aceita,4000.0,2248.0,1.0,1.0,0.0,0.0,Paisagem,Caminho da Natureza
+12058.0,2021-01-24 10:41:52,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,Máscara da liberdade
+12058.0,2021-01-24 10:41:52,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,Meninos da terra
+12058.0,2021-01-24 10:52:20,Aceita,3500.0,2388.0,1.0,1.0,0.0,0.0,Paisagem,"A fé, seu guia"
+9109.0,2021-01-24 12:57:09,Aceita,3779.0,2716.0,1.0,1.0,0.0,0.0,Paisagem,A vida de Passagem
+9109.0,2021-01-24 12:57:09,Aceita,2598.0,3543.0,1.0,0.0,1.0,0.0,Retrato,Reflexo
+9109.0,2021-01-24 13:01:43,Aceita,3543.0,2598.0,1.0,1.0,0.0,0.0,Paisagem,Arara-Canindé
+9109.0,2021-01-24 13:01:43,Aceita,3543.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,Raios
+12143.0,2021-01-24 15:27:46,Aceita,5479.0,3653.0,1.0,1.0,0.0,0.0,Paisagem,Lavando a alma.
+12143.0,2021-01-24 15:27:46,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Presentes a Iemanjá.
+12230.0,2021-01-24 16:32:44,Aceita,4288.0,3216.0,1.0,1.0,0.0,0.0,Paisagem,PERCURSO
+12230.0,2021-01-24 16:35:01,Aceita,3593.0,4842.0,1.0,0.0,1.0,0.0,Retrato,ORIENTAÇÃO
+12230.0,2021-01-24 16:35:01,Aceita,5074.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,DESCONHECIDO
+12143.0,2021-01-24 17:33:57,Aceita,4498.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,O pulo.
+12143.0,2021-01-24 17:33:57,Aceita,5217.0,3478.0,1.0,1.0,0.0,0.0,Paisagem,Andando de Barco.
+4431.0,2021-01-24 18:52:15,Aceita,5399.0,4056.0,1.0,1.0,0.0,0.0,Paisagem,SARAH  MULHER  II
+4431.0,2021-01-24 18:52:15,Aceita,4795.0,3602.0,1.0,1.0,0.0,0.0,Paisagem,THUNDER II
+4431.0,2021-01-24 18:54:37,Aceita,4795.0,3602.0,1.0,1.0,0.0,0.0,Paisagem,AGUA  É  VIDA
+4431.0,2021-01-24 18:54:37,Aceita,5400.0,4057.0,1.0,1.0,0.0,0.0,Paisagem,MASK  7
+12146.0,2021-01-24 20:23:30,Aceita,3000.0,2269.0,1.0,1.0,0.0,0.0,Paisagem,Atenção!
+12146.0,2021-01-24 20:24:36,Aceita,3000.0,2377.0,1.0,1.0,0.0,0.0,Paisagem,Satisfeita
+12146.0,2021-01-24 20:24:36,Aceita,3000.0,2832.0,1.0,1.0,0.0,0.0,Paisagem,Vó Luiza
+12492.0,2021-01-24 20:48:39,Aceita,3143.0,4720.0,1.0,0.0,1.0,0.0,Retrato,Reflexos
+12492.0,2021-01-24 20:52:38,Aceita,3464.0,5202.0,1.0,0.0,1.0,0.0,Retrato,Dream
+9586.0,2021-01-24 21:45:12,Aceita,3335.0,4447.0,1.0,0.0,1.0,0.0,Retrato,Mãe
+9586.0,2021-01-24 21:47:50,Aceita,2800.0,3733.0,1.0,0.0,1.0,0.0,Retrato,Ponte
+9586.0,2021-01-24 21:51:07,Aceita,5179.0,3840.0,1.0,1.0,0.0,0.0,Paisagem,Dança
+12493.0,2021-01-24 23:22:53,Aceita,4426.0,3084.0,1.0,1.0,0.0,0.0,Paisagem,A Selva
+12493.0,2021-01-24 23:22:53,Aceita,5000.0,3603.0,1.0,1.0,0.0,0.0,Paisagem,O Caçador
+11197.0,2021-01-25 10:41:30,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,antigo e moderno
+11197.0,2021-01-25 10:41:30,Aceita,5516.0,4160.0,1.0,1.0,0.0,0.0,Paisagem,auto retrato em tempos de pandemia
+11197.0,2021-01-25 10:44:22,Aceita,3532.0,4710.0,1.0,0.0,1.0,0.0,Retrato,defumando a casa
+11197.0,2021-01-25 10:44:22,Aceita,2667.0,4000.0,1.0,0.0,1.0,0.0,Retrato,entre portas
+9571.0,2021-01-25 10:47:06,Aceita,4500.0,3300.0,1.0,1.0,0.0,0.0,Paisagem,encontro
+9571.0,2021-01-25 10:47:06,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Bela Veneza
+9571.0,2021-01-25 10:54:12,Aceita,4500.0,3300.0,1.0,1.0,0.0,0.0,Paisagem,Arvore no Inverno
+9571.0,2021-01-25 10:54:12,Aceita,4533.0,3433.0,1.0,1.0,0.0,0.0,Paisagem,Imigrantes na Itália
+12478.0,2021-01-25 12:29:35,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Pandemia MMXX d.C.
+12478.0,2021-01-25 13:49:56,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O Mensageiro
+12146.0,2021-01-25 15:46:05,Aceita,3000.0,2867.0,1.0,1.0,0.0,0.0,Paisagem,Repouso
+12153.0,2021-01-25 16:35:03,Aceita,3000.0,1992.0,1.0,1.0,0.0,0.0,Paisagem,Coisas de Brasil - Pais continental
+12153.0,2021-01-25 16:35:03,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Ribeirinhos - meio de transporte
+12487.0,2021-01-25 17:50:01,Aceita,4500.0,4353.0,1.0,1.0,0.0,0.0,Paisagem,Menino do Rio
+12495.0,2021-01-25 21:11:41,Aceita,4500.0,3967.0,1.0,1.0,0.0,0.0,Paisagem,Atomium - Bruxelas
+12495.0,2021-01-25 21:11:41,Aceita,4500.0,3375.0,1.0,1.0,0.0,0.0,Paisagem,Bundestag - Parlamento Alemão
+12495.0,2021-01-25 21:16:17,Aceita,4500.0,3148.0,1.0,1.0,0.0,0.0,Paisagem,Bruges - Bélgica
+12495.0,2021-01-25 21:16:17,Aceita,4500.0,3375.0,1.0,1.0,0.0,0.0,Paisagem,Bruges - Bélgica
+12496.0,2021-01-25 22:25:56,Aceita,3000.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Centro_Historico_Sao Paulo_SP
+12496.0,2021-01-25 23:35:34,Aceita,3000.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Santos
+12496.0,2021-01-25 23:35:34,Aceita,3000.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Viaduto Santa Ifigenia_Sao Paulo_SP
+12410.0,2021-01-26 00:47:19,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Angústia
+12410.0,2021-01-26 00:47:47,Aceita,2248.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Contemplação
+253.0,2021-01-26 00:51:59,Aceita,4853.0,3235.0,1.0,1.0,0.0,0.0,Paisagem,Check in
+253.0,2021-01-26 00:51:59,Aceita,5644.0,3763.0,1.0,1.0,0.0,0.0,Paisagem,Entre luz e sombras
+8953.0,2021-01-26 14:54:57,Aceita,6000.0,3931.0,1.0,1.0,0.0,0.0,Paisagem,A elegante Paraty
+8953.0,2021-01-26 14:54:57,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,O sonho de Escher
+8953.0,2021-01-26 14:59:02,Aceita,6000.0,3992.0,1.0,1.0,0.0,0.0,Paisagem,"Ouro Preto: história, vida e tradição"
+8953.0,2021-01-26 15:12:26,Aceita,3984.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Enamorados
+12497.0,2021-01-26 18:22:01,Aceita,2332.0,4800.0,1.0,0.0,1.0,0.0,Retrato,A esperar
+12497.0,2021-01-26 18:22:01,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Bisbilhoteiro
+12497.0,2021-01-26 18:23:33,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Futuro da Nação
+12497.0,2021-01-26 18:23:33,Aceita,4800.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,Zelo
+4387.0,2021-01-26 21:05:07,Aceita,4288.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Esperança
+4387.0,2021-01-26 21:05:07,Aceita,3264.0,4928.0,1.0,0.0,1.0,0.0,Retrato,Troféu
+3511.0,2021-01-26 21:13:37,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Meu Refugio
+12498.0,2021-01-26 22:41:11,Aceita,3000.0,4831.0,1.0,0.0,1.0,0.0,Retrato,Um mundo só meu
+12498.0,2021-01-26 22:41:11,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,A pandemia fez as máscaras caírem
+12498.0,2021-01-26 22:42:07,Aceita,4000.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Procurando a minha dose
+12498.0,2021-01-26 22:42:07,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade ou Solidão
+12500.0,2021-01-27 12:48:33,Aceita,2513.0,3942.0,1.0,0.0,1.0,0.0,Retrato,SPLASH EM ALTA VELOCIDADE (NO COPO P&B)
+12500.0,2021-01-27 12:51:40,Aceita,3443.0,3231.0,1.0,1.0,0.0,0.0,Paisagem,SPLASH EM ALTA VELOCIDADE EM FORMA DE ARCO( NA TAÇA)
+12500.0,2021-01-27 13:02:06,Aceita,2960.0,3440.0,1.0,0.0,1.0,0.0,Retrato,GARFOS SOBRE AS SOMBRAS
+12502.0,2021-01-27 13:40:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Galope
+12502.0,2021-01-27 13:40:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O salto
+12502.0,2021-01-27 13:41:50,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Pernas
+12502.0,2021-01-27 13:41:50,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Admiração
+12119.0,2021-01-27 13:49:25,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,HORA DO LANCHE
+12119.0,2021-01-27 13:49:25,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,DE RODAS PARA O AR
+12119.0,2021-01-27 14:03:51,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,ÁGUAS PARA VIDA
+12119.0,2021-01-27 14:03:51,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,SOL DA TARDE
+12487.0,2021-01-27 15:22:09,Aceita,2355.0,3396.0,1.0,0.0,1.0,0.0,Retrato,Frente a Frente
+12487.0,2021-01-27 15:22:09,Aceita,3293.0,2428.0,1.0,1.0,0.0,0.0,Paisagem,Olho da Natureza
+12487.0,2021-01-27 15:52:35,Aceita,3396.0,2265.0,1.0,1.0,0.0,0.0,Paisagem,Observadores
+12503.0,2021-01-27 17:37:36,Aceita,7000.0,5029.0,1.0,1.0,0.0,0.0,Paisagem,O TEMPO
+12504.0,2021-01-27 18:13:08,Aceita,4948.0,3299.0,1.0,1.0,0.0,0.0,Paisagem,Redentor
+12504.0,2021-01-27 18:13:08,Aceita,5143.0,3429.0,1.0,1.0,0.0,0.0,Paisagem,Na Janela
+12503.0,2021-01-27 18:22:07,Aceita,4761.0,3174.0,1.0,1.0,0.0,0.0,Paisagem,MARCAS
+12503.0,2021-01-27 18:22:07,Aceita,7000.0,4634.0,1.0,1.0,0.0,0.0,Paisagem,COMPARTILHAMENTO
+12505.0,2021-01-27 20:04:15,Aceita,3543.0,1739.0,1.0,1.0,0.0,0.0,Paisagem,Coletores de minhocas
+12505.0,2021-01-27 20:04:15,Aceita,3543.0,1960.0,1.0,1.0,0.0,0.0,Paisagem,Caminhantes
+12505.0,2021-01-27 20:52:17,Aceita,4072.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Aquecendo os tambores
+12505.0,2021-01-27 20:52:17,Aceita,3543.0,1649.0,1.0,1.0,0.0,0.0,Paisagem,Relevos
+12506.0,2021-01-27 23:14:41,Aceita,3072.0,4608.0,1.0,0.0,1.0,0.0,Retrato,A Vida de Arlindo
+12506.0,2021-01-27 23:14:41,Aceita,3072.0,4608.0,1.0,0.0,1.0,0.0,Retrato,O Quarto de Adriana
+12506.0,2021-01-27 23:15:34,Aceita,4371.0,2914.0,1.0,1.0,0.0,0.0,Paisagem,A Janela
+12506.0,2021-01-27 23:15:34,Aceita,3717.0,2872.0,1.0,1.0,0.0,0.0,Paisagem,O Salão
+12496.0,2021-01-27 23:29:14,Aceita,3000.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Trilhos_Paranapiacaba
+12478.0,2021-01-28 12:56:37,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Conheça o mundo através da leitura
+7648.0,2021-01-28 16:33:22,Aceita,5086.0,3391.0,1.0,1.0,0.0,0.0,Paisagem,Reflexos da cidade
+7648.0,2021-01-28 16:33:22,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Cidade cinza
+7648.0,2021-01-28 16:36:25,Aceita,3413.0,2275.0,1.0,1.0,0.0,0.0,Paisagem,Cidade amada
+12508.0,2021-01-28 16:40:58,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Saudade de sentir
+12508.0,2021-01-28 16:40:58,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Saudade de crer
+12508.0,2021-01-28 16:41:44,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Saudade de voar
+12508.0,2021-01-28 16:41:44,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Saudade da liberdade
+5744.0,2021-01-28 16:48:02,Aceita,3342.0,2574.0,1.0,1.0,0.0,0.0,Paisagem,Jacaré
+5744.0,2021-01-28 16:48:02,Aceita,4258.0,2812.0,1.0,1.0,0.0,0.0,Paisagem,Pantera
+5744.0,2021-01-28 17:00:01,Aceita,3067.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Renascer
+5744.0,2021-01-28 17:00:01,Aceita,3840.0,4790.0,1.0,0.0,1.0,0.0,Retrato,Short eared II
+12509.0,2021-01-28 20:38:38,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Embate
+10153.0,2021-01-29 03:35:49,Aceita,4215.0,3239.0,1.0,1.0,0.0,0.0,Paisagem,Beleza da natureza
+10153.0,2021-01-29 03:35:49,Aceita,4114.0,2931.0,1.0,1.0,0.0,0.0,Paisagem,A geometria na arquitetura
+10153.0,2021-01-29 03:38:11,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Dona Lindaura
+10153.0,2021-01-29 03:38:11,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Devagarzinho e sempre
+10212.0,2021-01-29 03:53:06,Aceita,3907.0,4000.0,1.0,0.0,1.0,0.0,Retrato,A Chapeleira
+10212.0,2021-01-29 03:53:06,Aceita,4266.0,2588.0,1.0,1.0,0.0,0.0,Paisagem,Parque da cidade
+10212.0,2021-01-29 03:55:20,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,O estudioso
+10212.0,2021-01-29 03:55:20,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Octogenário trabalhador
+10207.0,2021-01-29 04:04:31,Aceita,4320.0,2804.0,1.0,1.0,0.0,0.0,Paisagem,Beleza da cidade
+10207.0,2021-01-29 04:04:31,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Escalda pés
+10207.0,2021-01-29 04:05:50,Aceita,5821.0,3901.0,1.0,1.0,0.0,0.0,Paisagem,Muitas histórias para contar
+10207.0,2021-01-29 04:05:50,Aceita,4320.0,3240.0,1.0,1.0,0.0,0.0,Paisagem,par perfeito
+12511.0,2021-01-29 14:13:07,Aceita,9000.0,6750.0,1.0,1.0,0.0,0.0,Paisagem,Pedra do Baú
+12511.0,2021-01-29 14:13:07,Aceita,9000.0,6176.0,1.0,1.0,0.0,0.0,Paisagem,Gotas na janela
+12511.0,2021-01-29 14:14:44,Aceita,9000.0,6000.0,1.0,1.0,0.0,0.0,Paisagem,Dentro do metro
+12511.0,2021-01-29 14:14:44,Aceita,3187.0,2417.0,1.0,1.0,0.0,0.0,Paisagem,São Paulo
+12500.0,2021-01-29 18:16:22,Aceita,3144.0,3145.0,1.0,0.0,1.0,0.0,Retrato,Splash
+12512.0,2021-01-29 19:56:20,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Altinha
+12512.0,2021-01-29 19:56:20,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Cover
+12512.0,2021-01-29 19:57:18,Aceita,2003.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Friends
+12512.0,2021-01-29 19:57:18,Aceita,2003.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Liberty
+12513.0,2021-01-29 21:17:59,Aceita,3500.0,2500.0,1.0,1.0,0.0,0.0,Paisagem,Indigena !
+12513.0,2021-01-29 21:17:59,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Cabo de guerra
+12513.0,2021-01-29 21:19:26,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Criança Indigena Tocantins
+12513.0,2021-01-29 21:19:26,Aceita,3000.0,2143.0,1.0,1.0,0.0,0.0,Paisagem,Indigenas 2
+12514.0,2021-01-29 21:47:12,Aceita,2592.0,4608.0,1.0,0.0,1.0,0.0,Retrato,Reflexos do Centro Velho de Santos
+12514.0,2021-01-29 21:47:12,Aceita,2578.0,3437.0,1.0,0.0,1.0,0.0,Retrato,Pausa para descanso
+12514.0,2021-01-29 21:47:53,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,À postos.
+11212.0,2021-01-30 07:44:36,Aceita,3000.0,2251.0,1.0,1.0,0.0,0.0,Paisagem,O ministério dos tênis voadores
+12389.0,2021-01-30 08:18:49,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Olhar
+12389.0,2021-01-30 08:18:49,Aceita,5416.0,2936.0,1.0,1.0,0.0,0.0,Paisagem,Leitura
+12389.0,2021-01-30 08:19:44,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Mergulho
+12389.0,2021-01-30 08:19:44,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Mulher
+7648.0,2021-01-30 11:25:17,Aceita,3830.0,2336.0,1.0,1.0,0.0,0.0,Paisagem,Faith and peace
+12149.0,2021-01-30 12:07:18,Aceita,3000.0,1688.0,1.0,1.0,0.0,0.0,Paisagem,Xangô
+12149.0,2021-01-30 12:07:18,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,LockDown
+12149.0,2021-01-30 12:12:49,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Epifania
+12149.0,2021-01-30 12:12:49,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,O pequeno judeu
+12516.0,2021-01-30 15:41:44,Aceita,4898.0,3265.0,1.0,1.0,0.0,0.0,Paisagem,Sobre cães e humanos
+12516.0,2021-01-30 15:46:30,Aceita,2983.0,3000.0,1.0,0.0,1.0,0.0,Retrato,A passagem do tempo
+12516.0,2021-01-30 15:46:30,Aceita,3000.0,1690.0,1.0,1.0,0.0,0.0,Paisagem,Vôo sobre Niterói
+12516.0,2021-01-30 15:48:49,Aceita,4898.0,3265.0,1.0,1.0,0.0,0.0,Paisagem,Sobre cães e humanos II
+8861.0,2021-01-30 17:10:06,Aceita,4104.0,5472.0,1.0,0.0,1.0,0.0,Retrato,Caminho iluminado
+8861.0,2021-01-30 17:10:06,Aceita,2951.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Tentáculos
+8861.0,2021-01-30 17:13:03,Aceita,4800.0,3201.0,1.0,1.0,0.0,0.0,Paisagem,Remadores
+8861.0,2021-01-30 17:13:03,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Ourives
+12515.0,2021-01-30 19:35:42,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Mar de nuvens
+12515.0,2021-01-30 19:35:42,Aceita,4000.0,4000.0,1.0,0.0,0.0,1.0,Quadrada,Renda se a Plysalis
+12515.0,2021-01-30 19:39:00,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Rodeado de amigos letrados
+12515.0,2021-01-30 19:39:00,Aceita,2344.0,3125.0,1.0,0.0,1.0,0.0,Retrato,Simplicidade
+2104.0,2021-01-31 15:48:02,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Amigo
+2104.0,2021-01-31 15:48:02,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Sertão
+2104.0,2021-01-31 15:48:58,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Travessia
+2104.0,2021-01-31 15:48:58,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Travessias
+12518.0,2021-01-31 23:00:06,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Espelhos da Alma
+12518.0,2021-01-31 23:02:01,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Saudade
+12518.0,2021-01-31 23:05:19,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Contemplação
+10443.0,2021-02-01 10:41:16,Aceita,3456.0,2304.0,1.0,1.0,0.0,0.0,Paisagem,A fome aguça os sentidos
+10443.0,2021-02-01 10:41:16,Aceita,3115.0,4672.0,1.0,0.0,1.0,0.0,Retrato,Foco na comunidade
+10443.0,2021-02-01 10:45:00,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Mãos de Geppetto
+10443.0,2021-02-01 10:45:00,Aceita,3193.0,4789.0,1.0,0.0,1.0,0.0,Retrato,Reintegração natural de posse
+9748.0,2021-02-01 15:10:40,Aceita,2336.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Penteado
+9748.0,2021-02-01 15:10:40,Aceita,3500.0,2336.0,1.0,1.0,0.0,0.0,Paisagem,Cão Guia
+9748.0,2021-02-01 15:11:42,Aceita,3500.0,2327.0,1.0,1.0,0.0,0.0,Paisagem,Cadillac 1953
+9748.0,2021-02-01 15:11:42,Aceita,2327.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Rosto Tatuado
+6565.0,2021-02-01 17:00:36,Aceita,4795.0,3602.0,1.0,1.0,0.0,0.0,Paisagem,Olhar
+6565.0,2021-02-01 17:00:36,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Queimada
+6565.0,2021-02-01 17:01:48,Aceita,3836.0,4795.0,1.0,0.0,1.0,0.0,Retrato,Sorriso
+6565.0,2021-02-01 17:01:48,Aceita,3815.0,2982.0,1.0,1.0,0.0,0.0,Paisagem,Trabalhador
+253.0,2021-02-01 18:45:26,Aceita,2455.0,4364.0,1.0,0.0,1.0,0.0,Retrato,Pára que eu quero descer...
+12520.0,2021-02-01 19:22:49,Aceita,4658.0,2620.0,1.0,1.0,0.0,0.0,Paisagem,Peixe
+12520.0,2021-02-01 19:22:49,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Pombas
+12520.0,2021-02-01 19:24:20,Aceita,4945.0,3297.0,1.0,1.0,0.0,0.0,Paisagem,Antúrio
+12520.0,2021-02-01 19:24:20,Aceita,4003.0,5604.0,1.0,0.0,1.0,0.0,Retrato,Árvore
+6358.0,2021-02-01 22:59:20,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Buraco da Araras - Bonito/MS
+6358.0,2021-02-01 23:14:57,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Garfield
+12521.0,2021-02-01 23:47:42,Aceita,3000.0,2020.0,1.0,1.0,0.0,0.0,Paisagem,Oração
+12521.0,2021-02-01 23:47:42,Aceita,3000.0,2310.0,1.0,1.0,0.0,0.0,Paisagem,Força
+12395.0,2021-02-01 23:54:08,Aceita,3263.0,1767.0,1.0,1.0,0.0,0.0,Paisagem,Singrando
+12521.0,2021-02-01 23:55:39,Aceita,3000.0,1621.0,1.0,1.0,0.0,0.0,Paisagem,inspiração
+12521.0,2021-02-01 23:55:39,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O amor vai além da pele
+7931.0,2021-02-02 01:41:13,Aceita,4833.0,3222.0,1.0,1.0,0.0,0.0,Paisagem,Ouviram do Ipiranga às margens plácidas
+12523.0,2021-02-02 11:18:43,Aceita,4971.0,3314.0,1.0,1.0,0.0,0.0,Paisagem,Super Homem do Rio
+12523.0,2021-02-02 11:18:43,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Lotação
+12523.0,2021-02-02 11:19:51,Aceita,3338.0,4901.0,1.0,0.0,1.0,0.0,Retrato,Boné vazio
+12523.0,2021-02-02 11:19:51,Aceita,2840.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Desobediência Civil
+12524.0,2021-02-02 13:04:13,Aceita,2848.0,4288.0,1.0,0.0,1.0,0.0,Retrato,O tanto do outro que tem em mim.
+12524.0,2021-02-02 13:04:13,Aceita,4288.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Esperançar.
+12524.0,2021-02-02 13:06:49,Aceita,2721.0,4098.0,1.0,0.0,1.0,0.0,Retrato,Boletos
+1142.0,2021-02-02 13:21:13,Aceita,3050.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Amigos da bola
+1142.0,2021-02-02 13:42:36,Aceita,3050.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Passado
+1142.0,2021-02-02 13:42:36,Aceita,4000.0,3050.0,1.0,1.0,0.0,0.0,Paisagem,Trem
+12526.0,2021-02-02 15:54:10,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Balsas
+12526.0,2021-02-02 15:54:10,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Casa de Farinha
+12134.0,2021-02-02 15:54:21,Aceita,2598.0,3442.0,1.0,0.0,1.0,0.0,Retrato,Pássaro
+12134.0,2021-02-02 15:54:21,Aceita,3463.0,2480.0,1.0,1.0,0.0,0.0,Paisagem,Afonso no Forte Saint-Jean
+12526.0,2021-02-02 15:55:11,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Bezerro
+12526.0,2021-02-02 15:55:11,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Janelas
+12134.0,2021-02-02 15:56:14,Aceita,3308.0,2126.0,1.0,1.0,0.0,0.0,Paisagem,Linhas
+12134.0,2021-02-02 15:56:14,Aceita,3307.0,2133.0,1.0,1.0,0.0,0.0,Paisagem,Afonso na estação
+12503.0,2021-02-02 19:14:21,Aceita,7000.0,5600.0,1.0,1.0,0.0,0.0,Paisagem,ESCALADA
+12527.0,2021-02-02 19:51:12,Aceita,4032.0,3016.0,1.0,1.0,0.0,0.0,Paisagem,Brincadeira de criança
+12527.0,2021-02-02 19:51:12,Aceita,4032.0,3016.0,1.0,1.0,0.0,0.0,Paisagem,Laila e a lenha
+12527.0,2021-02-02 19:55:43,Aceita,3016.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Menina também pode!
+12527.0,2021-02-02 19:55:43,Aceita,3016.0,4032.0,1.0,0.0,1.0,0.0,Retrato,O lenhador.
+7165.0,2021-02-02 22:40:55,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Serie botânica  Bromélia Aequimea
+7165.0,2021-02-02 22:44:59,Aceita,4500.0,2794.0,1.0,1.0,0.0,0.0,Paisagem,Serie Botanica  Begonia Rex
+7165.0,2021-02-02 22:44:59,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Serie Botanica  Milindro
+7165.0,2021-02-02 22:47:09,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Serie Conexões
+12529.0,2021-02-03 00:15:11,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Inspirar
+12529.0,2021-02-03 00:15:11,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Reflexo da Fé
+12529.0,2021-02-03 00:17:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Piracema
+12529.0,2021-02-03 00:17:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Brava Gente
+10606.0,2021-02-03 13:57:33,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,"Quando tudo for pedra, atire a primeira flor!"
+10606.0,2021-02-03 13:57:33,Aceita,2053.0,3000.0,1.0,0.0,1.0,0.0,Retrato,A gratidão gera um mar de coisas boas.
+12528.0,2021-02-03 14:36:53,Aceita,4050.0,5400.0,1.0,0.0,1.0,0.0,Retrato,Tricotando
+12528.0,2021-02-03 14:36:53,Aceita,6750.0,4500.0,1.0,1.0,0.0,0.0,Paisagem,Rotina Diária
+12528.0,2021-02-03 14:46:21,Aceita,6750.0,4500.0,1.0,1.0,0.0,0.0,Paisagem,Alfaiate
+12528.0,2021-02-03 14:49:31,Aceita,6750.0,4500.0,1.0,1.0,0.0,0.0,Paisagem,Canto do Conhecimento
+1261.0,2021-02-03 15:09:59,Aceita,4209.0,5953.0,1.0,0.0,1.0,0.0,Retrato,brasileiro 1
+1261.0,2021-02-03 15:09:59,Aceita,4209.0,5953.0,1.0,0.0,1.0,0.0,Retrato,brasileiro 2
+1261.0,2021-02-03 15:11:07,Aceita,5953.0,4209.0,1.0,1.0,0.0,0.0,Paisagem,brasileiro 3
+1261.0,2021-02-03 15:11:07,Aceita,5953.0,4209.0,1.0,1.0,0.0,0.0,Paisagem,brasileiro 4
+6716.0,2021-02-03 16:47:15,Aceita,4159.0,2772.0,1.0,1.0,0.0,0.0,Paisagem,criação da luz
+12530.0,2021-02-03 17:35:17,Aceita,3500.0,2334.0,1.0,1.0,0.0,0.0,Paisagem,ÍNDIA
+12530.0,2021-02-03 17:35:17,Aceita,3200.0,2132.0,1.0,1.0,0.0,0.0,Paisagem,INFINITO VAZIO
+12530.0,2021-02-03 17:38:08,Aceita,3500.0,2334.0,1.0,1.0,0.0,0.0,Paisagem,O DILÚVIO
+12530.0,2021-02-03 17:38:08,Aceita,2316.0,3200.0,1.0,0.0,1.0,0.0,Retrato,LONGA JORNADA
+12531.0,2021-02-03 18:59:03,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Libre por Siempre!
+12531.0,2021-02-03 18:59:03,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Guns
+12531.0,2021-02-03 19:00:12,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Burger King
+12531.0,2021-02-03 19:00:12,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,El momento del unicornio
+12532.0,2021-02-03 23:17:47,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Desinfecção
+12532.0,2021-02-03 23:17:47,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Tudo Pendurado
+12532.0,2021-02-03 23:20:15,Aceita,5314.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Bola no Mato
+12532.0,2021-02-03 23:20:15,Aceita,3543.0,5315.0,1.0,0.0,1.0,0.0,Retrato,Contemplação
+12535.0,2021-02-04 00:11:57,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Meu afeto
+12535.0,2021-02-04 00:11:57,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Serenidade
+12535.0,2021-02-04 00:14:16,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Contemplação
+10359.0,2021-02-04 11:03:20,Aceita,2920.0,4022.0,1.0,0.0,1.0,0.0,Retrato,"Entre linhas, sombras e luz"
+10359.0,2021-02-04 11:03:20,Aceita,2918.0,3921.0,1.0,0.0,1.0,0.0,Retrato,Alivio em meio ao caos
+10359.0,2021-02-04 11:08:34,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Pendurados
+10359.0,2021-02-04 11:08:34,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Observadores
+12501.0,2021-02-04 11:12:09,Aceita,4163.0,4163.0,1.0,0.0,0.0,1.0,Quadrada,A CHEGADA DAS CEGONHAS
+10606.0,2021-02-04 11:47:40,Aceita,2451.0,3000.0,1.0,0.0,1.0,0.0,Retrato,No silêncio das notas vazias.
+10606.0,2021-02-04 11:51:28,Aceita,1686.0,3000.0,1.0,0.0,1.0,0.0,Retrato,There is hope?!
+12538.0,2021-02-04 13:22:40,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Terror
+12538.0,2021-02-04 13:22:40,Aceita,4288.0,3216.0,1.0,1.0,0.0,0.0,Paisagem,O Último Olhar
+12538.0,2021-02-04 13:27:33,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Assustador
+12538.0,2021-02-04 13:27:33,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Voo
+12388.0,2021-02-04 14:20:26,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Vaqueiro
+12388.0,2021-02-04 14:20:26,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,I can see you
+12388.0,2021-02-04 15:00:35,Aceita,3000.0,1980.0,1.0,1.0,0.0,0.0,Paisagem,Pantaneiro
+12388.0,2021-02-04 15:00:35,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Cachimbo
+12140.0,2021-02-04 15:33:18,Aceita,4000.0,2672.0,1.0,1.0,0.0,0.0,Paisagem,Amigos
+12140.0,2021-02-04 15:33:18,Aceita,3872.0,2576.0,1.0,1.0,0.0,0.0,Paisagem,Mea Shearim
+12140.0,2021-02-04 15:34:27,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,Cidade Vazia
+12140.0,2021-02-04 15:34:27,Aceita,3375.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Dança das Pétalas
+12540.0,2021-02-04 18:20:11,Aceita,3000.0,2002.0,1.0,1.0,0.0,0.0,Paisagem,Brincando de Mocinho
+12540.0,2021-02-04 18:20:11,Aceita,3000.0,2002.0,1.0,1.0,0.0,0.0,Paisagem,Lagoa de Santo Amaro
+12540.0,2021-02-04 18:21:40,Aceita,3000.0,2096.0,1.0,1.0,0.0,0.0,Paisagem,Leitor
+12540.0,2021-02-04 18:21:40,Aceita,3000.0,1996.0,1.0,1.0,0.0,0.0,Paisagem,O Borracheiro
+12542.0,2021-02-04 20:22:40,Aceita,4128.0,1956.0,1.0,1.0,0.0,0.0,Paisagem,Caboclo Descascando Mandioca - Pará - Floresta Amazônica
+12542.0,2021-02-04 20:22:40,Aceita,4128.0,1956.0,1.0,1.0,0.0,0.0,Paisagem,Mandioca Sendo Moída - Pará - Floresta Amazônica
+12542.0,2021-02-04 20:26:19,Aceita,4128.0,1956.0,1.0,1.0,0.0,0.0,Paisagem,Separando a Mandioca - Pará - Floresta Amazônica
+12542.0,2021-02-04 20:26:19,Aceita,4128.0,1956.0,1.0,1.0,0.0,0.0,Paisagem,Torrando a Farinha de Mandioca - Pará - Floresta Amazônica
+12541.0,2021-02-04 23:35:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Noite na fazenda
+12541.0,2021-02-04 23:35:38,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Quo vadis?
+12541.0,2021-02-04 23:37:42,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Á espera das tainhas
+12541.0,2021-02-04 23:41:26,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Por do sol no clube
+4356.0,2021-02-05 12:28:13,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Paisagem com cavalos
+4356.0,2021-02-05 12:28:13,Aceita,3888.0,2332.0,1.0,1.0,0.0,0.0,Paisagem,Paisagem com buritis
+4356.0,2021-02-05 13:35:43,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Folhas (Abstrato)
+4356.0,2021-02-05 13:35:43,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Ermo
+11200.0,2021-02-05 14:41:48,Aceita,7500.0,5000.0,1.0,1.0,0.0,0.0,Paisagem,Tributo
+11200.0,2021-02-05 14:41:48,Aceita,14289.0,6788.0,1.0,1.0,0.0,0.0,Paisagem,viola
+11200.0,2021-02-05 14:45:32,Aceita,3938.0,2999.0,1.0,1.0,0.0,0.0,Paisagem,Restos
+11200.0,2021-02-05 14:47:33,Aceita,6667.0,6208.0,1.0,1.0,0.0,0.0,Paisagem,Olhar
+12546.0,2021-02-05 16:13:32,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,COVER
+12546.0,2021-02-05 16:13:32,Aceita,3840.0,3295.0,1.0,1.0,0.0,0.0,Paisagem,DESERTO
+12546.0,2021-02-05 16:14:34,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,FACES
+12546.0,2021-02-05 16:14:34,Aceita,4724.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,PERTRANSIÇÃO
+9961.0,2021-02-05 18:39:40,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Dona Franscisca
+9961.0,2021-02-05 18:39:40,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Viver
+9961.0,2021-02-05 18:40:50,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Vaidade
+9961.0,2021-02-05 18:40:50,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Meiga
+12547.0,2021-02-05 19:23:01,Aceita,4488.0,2967.0,1.0,1.0,0.0,0.0,Paisagem,Sé-Fé e Natureza
+12547.0,2021-02-05 19:24:04,Aceita,4707.0,3138.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade da Fé
+12547.0,2021-02-05 19:24:04,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Equilibrio Lúdico
+12547.0,2021-02-05 19:25:49,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Luz e Arte
+12406.0,2021-02-05 22:42:49,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Travessia.
+3679.0,2021-02-06 00:45:08,Aceita,3872.0,2581.0,1.0,1.0,0.0,0.0,Paisagem,Avenida do Estado e seus formatos
+3679.0,2021-02-06 00:52:53,Aceita,3873.0,2582.0,1.0,1.0,0.0,0.0,Paisagem,"Fé, Luz e Esperança pelas vidas na pandemia"
+3679.0,2021-02-06 01:09:07,Aceita,3872.0,2581.0,1.0,1.0,0.0,0.0,Paisagem,Cidade Santa - Santuário de Nossa Senhora Aparecida no interior de São Paulo
+3679.0,2021-02-06 01:09:07,Aceita,2582.0,3873.0,1.0,0.0,1.0,0.0,Retrato,"Cadeiras, proibido sentar."
+4704.0,2021-02-06 03:39:12,Aceita,5000.0,3334.0,1.0,1.0,0.0,0.0,Paisagem,Bronzear
+4704.0,2021-02-06 03:39:12,Aceita,5000.0,3334.0,1.0,1.0,0.0,0.0,Paisagem,O Agro é?
+4704.0,2021-02-06 03:40:11,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,O Peixe e o pescador
+4704.0,2021-02-06 03:40:11,Aceita,3333.0,5000.0,1.0,0.0,1.0,0.0,Retrato,O Poder da Fé
+12382.0,2021-02-06 09:41:29,Aceita,12000.0,8000.0,1.0,1.0,0.0,0.0,Paisagem,botafogo praia clube
+12406.0,2021-02-06 10:06:32,Aceita,3994.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Terra de brincar.
+12406.0,2021-02-06 10:06:32,Aceita,3861.0,2573.0,1.0,1.0,0.0,0.0,Paisagem,Porto solidão.
+1262.0,2021-02-06 14:19:33,Aceita,4724.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Luzes da manha 1
+1262.0,2021-02-06 14:19:33,Aceita,4724.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Luzes da manha 2
+1262.0,2021-02-06 14:24:12,Aceita,4724.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Sem compromisso
+1262.0,2021-02-06 14:32:40,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,sem apito na curva
+12382.0,2021-02-06 15:54:17,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,O fim da Era das Trevas
+12382.0,2021-02-06 16:10:19,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,o sobe & desce da vida
+12548.0,2021-02-06 17:36:55,Aceita,5000.0,3333.0,1.0,1.0,0.0,0.0,Paisagem,Perspectiva
+12548.0,2021-02-06 17:39:16,Aceita,3264.0,1836.0,1.0,1.0,0.0,0.0,Paisagem,Entardecer entre montanhas
+12548.0,2021-02-06 17:40:43,Aceita,3264.0,1836.0,1.0,1.0,0.0,0.0,Paisagem,Trilhos no deserto
+10200.0,2021-02-06 21:07:47,Aceita,3000.0,1688.0,1.0,1.0,0.0,0.0,Paisagem,Fog
+10200.0,2021-02-06 21:07:47,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Angel
+10200.0,2021-02-06 21:10:37,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Abissal
+10200.0,2021-02-06 21:10:37,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Luz
+12549.0,2021-02-06 21:54:34,Aceita,2848.0,4272.0,1.0,0.0,1.0,0.0,Retrato,"Na Ilha 1 - ""3 Gente"""
+12549.0,2021-02-06 21:54:34,Aceita,2848.0,4272.0,1.0,0.0,1.0,0.0,Retrato,"Na Ilha 2 - ""3 Gente"""
+12549.0,2021-02-06 21:55:53,Aceita,3984.0,2833.0,1.0,1.0,0.0,0.0,Paisagem,"Na Ilha 3 - ""3 Gente"""
+12549.0,2021-02-06 21:55:53,Aceita,3410.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,"Na Ilha 4 - ""3 Gente"""
+12551.0,2021-02-07 17:27:04,Aceita,3680.0,5475.0,1.0,0.0,1.0,0.0,Retrato,Passeio no Malecon
+12551.0,2021-02-07 17:27:04,Aceita,3745.0,2497.0,1.0,1.0,0.0,0.0,Paisagem,Proteja-me!
+12551.0,2021-02-07 17:28:26,Aceita,3948.0,5922.0,1.0,0.0,1.0,0.0,Retrato,Abençoada Árvore
+12551.0,2021-02-07 17:28:26,Aceita,5115.0,3410.0,1.0,1.0,0.0,0.0,Paisagem,Nova Geração
+4203.0,2021-02-07 19:11:25,Aceita,4608.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Araucária do Vale
+9698.0,2021-02-07 20:15:45,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,Paraíso Tropical
+9698.0,2021-02-07 20:15:45,Aceita,3500.0,2332.0,1.0,1.0,0.0,0.0,Paisagem,Pequena Oração
+9698.0,2021-02-07 20:27:40,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,Sob o sol da liberdade
+6754.0,2021-02-07 20:38:25,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Centenário Casal Gomes
+6754.0,2021-02-07 20:38:25,Aceita,4498.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,A Vila Famosa
+6754.0,2021-02-07 20:49:43,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Pré Temporal
+6754.0,2021-02-07 20:49:43,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Praia Segurança
+9698.0,2021-02-07 21:21:04,Aceita,2325.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Ondas Urbanas
+11192.0,2021-02-07 23:01:33,Aceita,5694.0,4480.0,1.0,1.0,0.0,0.0,Paisagem,Barcos na beira do rio
+11192.0,2021-02-07 23:01:33,Aceita,6720.0,4368.0,1.0,1.0,0.0,0.0,Paisagem,Margem do rio Pojuca
+11192.0,2021-02-07 23:03:14,Aceita,5452.0,3635.0,1.0,1.0,0.0,0.0,Paisagem,Forte Santa Maria
+11192.0,2021-02-07 23:03:14,Aceita,4650.0,3514.0,1.0,1.0,0.0,0.0,Paisagem,Jogando bola na praia
+12552.0,2021-02-08 02:58:12,Aceita,2074.0,3110.0,1.0,0.0,1.0,0.0,Retrato,FÉ
+12552.0,2021-02-08 02:58:12,Aceita,3110.0,2074.0,1.0,1.0,0.0,0.0,Paisagem,UNIDOS
+12552.0,2021-02-08 03:00:47,Aceita,3264.0,2176.0,1.0,1.0,0.0,0.0,Paisagem,COROA
+12552.0,2021-02-08 03:00:47,Aceita,2169.0,3253.0,1.0,0.0,1.0,0.0,Retrato,VOLUMES
+10625.0,2021-02-08 09:38:19,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Io no ci sto
+10625.0,2021-02-08 09:38:19,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Reis
+10625.0,2021-02-08 09:40:01,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,EVA
+10625.0,2021-02-08 09:40:01,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,O mausoléu
+6666.0,2021-02-08 11:11:39,Aceita,4256.0,2832.0,1.0,1.0,0.0,0.0,Paisagem,Eu vi a luz entrar
+6666.0,2021-02-08 11:11:39,Aceita,2723.0,4092.0,1.0,0.0,1.0,0.0,Retrato,Pictoforma
+262.0,2021-02-08 11:32:26,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Ribeirinho
+262.0,2021-02-08 11:32:26,Aceita,5126.0,3417.0,1.0,1.0,0.0,0.0,Paisagem,Enfermagem
+6666.0,2021-02-08 11:39:12,Aceita,4256.0,2832.0,1.0,1.0,0.0,0.0,Paisagem,Quando os sonhos dormem
+6666.0,2021-02-08 11:39:12,Aceita,4191.0,2789.0,1.0,1.0,0.0,0.0,Paisagem,Desconstrução
+12446.0,2021-02-08 14:58:09,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Pôr do sol abençoado no Olivas Gramado
+12446.0,2021-02-08 15:05:06,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Um dia qualquer aos pés da Estátua da Liberdade
+12446.0,2021-02-08 15:10:17,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Menino de rua boliviano e seu fiel amigo
+12446.0,2021-02-08 15:10:17,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Meditação no Central Park
+12553.0,2021-02-08 15:45:35,Aceita,4771.0,3160.0,1.0,1.0,0.0,0.0,Paisagem,Deserto do Atacama
+12553.0,2021-02-08 15:45:35,Aceita,3648.0,5472.0,1.0,0.0,1.0,0.0,Retrato,O iluminado
+12555.0,2021-02-08 17:06:58,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Pórticos sagrados
+12555.0,2021-02-08 17:06:58,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Fungos Orelha de Pau
+12555.0,2021-02-08 17:13:26,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Resistência e docilidade
+12555.0,2021-02-08 17:13:26,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Boca de pedra
+12132.0,2021-02-08 17:33:01,Aceita,3456.0,4608.0,1.0,0.0,1.0,0.0,Retrato,Paolla
+12132.0,2021-02-08 17:33:01,Aceita,4016.0,6016.0,1.0,0.0,1.0,0.0,Retrato,Linhas constantes e suaves
+12132.0,2021-02-08 17:34:36,Aceita,3558.0,5333.0,1.0,0.0,1.0,0.0,Retrato,Enquadrado
+12132.0,2021-02-08 17:34:36,Aceita,3558.0,5333.0,1.0,0.0,1.0,0.0,Retrato,De pernas pro ar
+12548.0,2021-02-08 17:37:33,Aceita,4204.0,2803.0,1.0,1.0,0.0,0.0,Paisagem,"Passado, Futuro e Presente (nesta ordem)"
+12554.0,2021-02-08 17:57:07,Aceita,5379.0,3586.0,1.0,1.0,0.0,0.0,Paisagem,Criança peruana
+12554.0,2021-02-08 17:57:07,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Artesã peruana
+12554.0,2021-02-08 17:58:45,Aceita,5385.0,3029.0,1.0,1.0,0.0,0.0,Paisagem,"Rio Caraíva, BA"
+12554.0,2021-02-08 17:58:45,Aceita,5464.0,3642.0,1.0,1.0,0.0,0.0,Paisagem,"Praia de Paripueira, AL"
+10635.0,2021-02-08 18:29:55,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Brisa
+10635.0,2021-02-08 18:29:55,Aceita,3115.0,4672.0,1.0,0.0,1.0,0.0,Retrato,Rota
+10635.0,2021-02-08 18:30:44,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Marciana
+10635.0,2021-02-08 18:30:44,Aceita,5137.0,3425.0,1.0,1.0,0.0,0.0,Paisagem,Céu e terra
+12556.0,2021-02-08 18:36:02,Aceita,3264.0,4928.0,1.0,0.0,1.0,0.0,Retrato,Amigos Lusitanos
+12556.0,2021-02-08 18:36:02,Aceita,3264.0,4928.0,1.0,0.0,1.0,0.0,Retrato,A energia da água
+12556.0,2021-02-08 19:17:33,Aceita,3000.0,4529.0,1.0,0.0,1.0,0.0,Retrato,Pegadas em Regência
+12556.0,2021-02-08 19:17:33,Aceita,3872.0,2592.0,1.0,1.0,0.0,0.0,Paisagem,Coliseu
+12543.0,2021-02-08 21:49:57,Aceita,6709.0,4565.0,1.0,1.0,0.0,0.0,Paisagem,A bailarina
+12543.0,2021-02-08 21:49:57,Aceita,5144.0,3430.0,1.0,1.0,0.0,0.0,Paisagem,Splash
+12543.0,2021-02-08 22:06:49,Aceita,3661.0,2441.0,1.0,1.0,0.0,0.0,Paisagem,Passando por cima!
+12543.0,2021-02-08 22:06:49,Aceita,5846.0,3898.0,1.0,1.0,0.0,0.0,Paisagem,Momento de Fé
+12553.0,2021-02-08 22:29:34,Aceita,3000.0,2001.0,1.0,1.0,0.0,0.0,Paisagem,São Paulo
+12553.0,2021-02-08 22:29:34,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Paranapiacaba
+12517.0,2021-02-09 03:52:05,Aceita,3536.0,2087.0,1.0,1.0,0.0,0.0,Paisagem,Quase gêmeos
+12517.0,2021-02-09 03:52:05,Aceita,2911.0,4659.0,1.0,0.0,1.0,0.0,Retrato,Penteando as penas
+12517.0,2021-02-09 04:19:06,Aceita,3945.0,2397.0,1.0,1.0,0.0,0.0,Paisagem,Guardião de lápides
+12517.0,2021-02-09 04:19:06,Aceita,3670.0,2700.0,1.0,1.0,0.0,0.0,Paisagem,Melancolia
+12559.0,2021-02-09 11:43:15,Aceita,4984.0,3209.0,1.0,1.0,0.0,0.0,Paisagem,A ESTIAGEM NO PANTANAL MATO-GROSSENSE 2020
+12559.0,2021-02-09 11:43:15,Aceita,4898.0,3265.0,1.0,1.0,0.0,0.0,Paisagem,FOGO CONSUMIDOR NO PANTANAL
+12559.0,2021-02-09 11:52:15,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,NÃO HÁ LUGAR
+12186.0,2021-02-09 15:56:54,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Bailarina 1
+12186.0,2021-02-09 15:56:54,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Bailarina 2
+12186.0,2021-02-09 15:57:54,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Luffa Operculata
+12186.0,2021-02-09 15:57:54,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Mãe
+12560.0,2021-02-09 18:45:22,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Rainha do viaduto
+12560.0,2021-02-09 18:47:25,Aceita,6000.0,3376.0,1.0,1.0,0.0,0.0,Paisagem,Solitude
+12560.0,2021-02-09 18:47:25,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,retalhos
+12560.0,2021-02-09 18:50:33,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Isolado
+5626.0,2021-02-09 21:24:19,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Regate
+5626.0,2021-02-09 21:24:19,Aceita,3000.0,2232.0,1.0,1.0,0.0,0.0,Paisagem,inocência
+5626.0,2021-02-09 21:25:31,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,modelo
+5626.0,2021-02-09 21:25:31,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Buraco
+12561.0,2021-02-10 14:10:41,Aceita,3000.0,2892.0,1.0,1.0,0.0,0.0,Paisagem,Confronto social
+12561.0,2021-02-10 14:10:41,Aceita,3000.0,2558.0,1.0,1.0,0.0,0.0,Paisagem,Resiliência
+12219.0,2021-02-10 14:33:26,Aceita,3068.0,2048.0,1.0,1.0,0.0,0.0,Paisagem,Contemplando o passado
+12219.0,2021-02-10 14:33:26,Aceita,3068.0,2048.0,1.0,1.0,0.0,0.0,Paisagem,O barbeiro de Jaipur
+12219.0,2021-02-10 14:34:42,Aceita,4344.0,2900.0,1.0,1.0,0.0,0.0,Paisagem,Lu Vitti !
+12219.0,2021-02-10 14:34:42,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Numa feira em Oaxaca
+12562.0,2021-02-10 16:55:52,Aceita,2533.0,3800.0,1.0,0.0,1.0,0.0,Retrato,àgua viva
+12562.0,2021-02-10 16:55:52,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,Folha
+12562.0,2021-02-10 17:00:06,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,Fungo
+12562.0,2021-02-10 17:00:06,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,Apus
+5728.0,2021-02-10 18:48:41,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Vaqueiro de Serrita
+5728.0,2021-02-10 18:48:41,Aceita,3000.0,2118.0,1.0,1.0,0.0,0.0,Paisagem,Banda de Pífanos
+5728.0,2021-02-10 18:50:40,Aceita,3000.0,1889.0,1.0,1.0,0.0,0.0,Paisagem,Agua Nossa de Cada Dia
+5728.0,2021-02-10 18:50:40,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Em fuga
+9586.0,2021-02-10 19:35:50,Aceita,3840.0,5120.0,1.0,0.0,1.0,0.0,Retrato,Navegando
+11198.0,2021-02-10 19:40:00,Aceita,2860.0,4000.0,1.0,0.0,1.0,0.0,Retrato,A Travessia
+11198.0,2021-02-10 19:40:00,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Em preto e branco
+11198.0,2021-02-10 19:41:04,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,A Fome
+11198.0,2021-02-10 19:41:04,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Aos Pés da Fé
+12564.0,2021-02-10 21:10:23,Aceita,3000.0,1687.0,1.0,1.0,0.0,0.0,Paisagem,Silhueta
+12564.0,2021-02-10 21:10:23,Aceita,2400.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Edifício Altino Arantes
+12564.0,2021-02-10 21:14:05,Aceita,3000.0,1687.0,1.0,1.0,0.0,0.0,Paisagem,Avenida 23 de Maio
+12564.0,2021-02-10 21:14:05,Aceita,3000.0,1687.0,1.0,1.0,0.0,0.0,Paisagem,Urubici - Santa Catarina
+12563.0,2021-02-10 21:44:33,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Esquecida
+12563.0,2021-02-10 21:44:33,Aceita,2533.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Túnel Rolante
+12563.0,2021-02-10 21:47:38,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Iluminada
+12563.0,2021-02-10 21:47:38,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Estacionada
+12565.0,2021-02-10 23:55:44,Aceita,4912.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Esperança
+12565.0,2021-02-10 23:55:44,Aceita,4114.0,2743.0,1.0,1.0,0.0,0.0,Paisagem,Iluminado
+12566.0,2021-02-11 10:48:15,Aceita,5361.0,4020.0,1.0,1.0,0.0,0.0,Paisagem,Sociedade em Camadas
+12566.0,2021-02-11 10:51:23,Aceita,4898.0,3265.0,1.0,1.0,0.0,0.0,Paisagem,Faces Fluidas
+12567.0,2021-02-11 11:43:51,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,solidao e paz
+12567.0,2021-02-11 11:43:51,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,grilo pendente
+12567.0,2021-02-11 11:44:33,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,bauzinho
+12567.0,2021-02-11 11:44:33,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,momento exato
+2273.0,2021-02-11 14:51:47,Aceita,3000.0,2002.0,1.0,1.0,0.0,0.0,Paisagem,A BATALHA DA VINCE
+2273.0,2021-02-11 14:51:47,Aceita,3500.0,2360.0,1.0,1.0,0.0,0.0,Paisagem,PONTO DE TÁXI
+12120.0,2021-02-11 14:52:24,Aceita,2265.0,3397.0,1.0,0.0,1.0,0.0,Retrato,Senhora
+12120.0,2021-02-11 14:52:24,Aceita,3106.0,2071.0,1.0,1.0,0.0,0.0,Paisagem,Barco
+2273.0,2021-02-11 14:52:54,Aceita,4032.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,VIAJANTE
+2273.0,2021-02-11 14:52:54,Aceita,4564.0,3127.0,1.0,1.0,0.0,0.0,Paisagem,O GUARDIÃO
+12120.0,2021-02-11 14:54:14,Aceita,3969.0,5953.0,1.0,0.0,1.0,0.0,Retrato,Fachada
+12566.0,2021-02-11 14:55:15,Aceita,3809.0,5731.0,1.0,0.0,1.0,0.0,Retrato,Caminho Composto
+12566.0,2021-02-11 14:55:15,Aceita,4194.0,2796.0,1.0,1.0,0.0,0.0,Paisagem,Hells de Janeiro
+12507.0,2021-02-11 14:55:07,Aceita,3202.0,1719.0,1.0,1.0,0.0,0.0,Paisagem,Abraço-me
+12507.0,2021-02-11 14:55:07,Aceita,3131.0,1695.0,1.0,1.0,0.0,0.0,Paisagem,Germinando
+12120.0,2021-02-11 15:03:06,Aceita,3000.0,4502.0,1.0,0.0,1.0,0.0,Retrato,Boi bumbá
+12545.0,2021-02-11 15:04:29,Aceita,4015.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Raízes Mapas
+12545.0,2021-02-11 15:04:29,Aceita,4288.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Dengo
+12545.0,2021-02-11 15:31:46,Aceita,4011.0,2590.0,1.0,1.0,0.0,0.0,Paisagem,Taquara na mão
+12545.0,2021-02-11 15:31:46,Aceita,4288.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Pisoteado pelo racismo
+12229.0,2021-02-11 16:04:36,Aceita,4843.0,3228.0,1.0,1.0,0.0,0.0,Paisagem,Tormenta urbana
+12229.0,2021-02-11 16:04:36,Aceita,5754.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Lendários de Canudos Velho
+12229.0,2021-02-11 16:06:09,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Infância
+12229.0,2021-02-11 16:06:09,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade Utópica
+2016.0,2021-02-11 18:04:21,Aceita,4925.0,3283.0,1.0,1.0,0.0,0.0,Paisagem,Faces Flutuando
+2016.0,2021-02-11 18:04:21,Aceita,3509.0,4679.0,1.0,0.0,1.0,0.0,Retrato,Luz no Fim do Túnel
+12536.0,2021-02-11 18:27:28,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Varanda
+12536.0,2021-02-11 18:27:28,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Coqueiro
+12536.0,2021-02-11 18:28:41,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Itamaracá
+12536.0,2021-02-11 18:28:41,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Ocaso
+12202.0,2021-02-11 18:49:09,Aceita,3500.0,1762.0,1.0,1.0,0.0,0.0,Paisagem,Vila de pescadores
+12202.0,2021-02-11 18:49:09,Aceita,2624.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Cachoeira dos Bugres
+12202.0,2021-02-11 18:49:53,Aceita,3500.0,2625.0,1.0,1.0,0.0,0.0,Paisagem,Modernidade
+12568.0,2021-02-11 19:03:26,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Colo de Mãe
+12568.0,2021-02-11 19:03:26,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Chapéu Amigo
+12569.0,2021-02-11 19:00:58,Aceita,6250.0,4166.0,1.0,1.0,0.0,0.0,Paisagem,Refrescando
+12569.0,2021-02-11 19:00:58,Aceita,7500.0,4927.0,1.0,1.0,0.0,0.0,Paisagem,Na sombra
+12569.0,2021-02-11 19:11:09,Aceita,7500.0,5000.0,1.0,1.0,0.0,0.0,Paisagem,Pedra da Cruz
+12569.0,2021-02-11 19:11:09,Aceita,7500.0,5000.0,1.0,1.0,0.0,0.0,Paisagem,Admirando o mar
+12568.0,2021-02-11 19:18:53,Aceita,4500.0,2866.0,1.0,1.0,0.0,0.0,Paisagem,Quitandeira
+12568.0,2021-02-11 19:18:53,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Tráfego
+10214.0,2021-02-11 19:34:00,Aceita,3000.0,2255.0,1.0,1.0,0.0,0.0,Paisagem,Minimalista
+10214.0,2021-02-11 19:34:00,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Portas para a Arte
+10214.0,2021-02-11 19:51:15,Aceita,2942.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Artista de Rua
+10214.0,2021-02-11 19:52:30,Aceita,3199.0,1870.0,1.0,1.0,0.0,0.0,Paisagem,Arte de Concreto
+12570.0,2021-02-11 21:13:58,Aceita,2999.0,4498.0,1.0,0.0,1.0,0.0,Retrato,Sou um colibri
+12570.0,2021-02-11 21:13:58,Aceita,4395.0,3019.0,1.0,1.0,0.0,0.0,Paisagem,Verônicas
+12570.0,2021-02-11 21:14:52,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Mãe das Águas
+12570.0,2021-02-11 21:14:52,Aceita,3776.0,2520.0,1.0,1.0,0.0,0.0,Paisagem,Oxalá
+10215.0,2021-02-11 21:17:24,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Linhas e luzes
+10215.0,2021-02-11 21:20:56,Aceita,3000.0,2027.0,1.0,1.0,0.0,0.0,Paisagem,Sorver
+10215.0,2021-02-11 21:20:56,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Só
+12571.0,2021-02-11 21:48:33,Aceita,3238.0,4047.0,1.0,0.0,1.0,0.0,Retrato,Beleza silenciosa
+12571.0,2021-02-11 21:48:33,Aceita,3462.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Beleza  oculta
+12572.0,2021-02-11 22:05:38,Aceita,5000.0,3468.0,1.0,1.0,0.0,0.0,Paisagem,Antártica
+12572.0,2021-02-11 22:05:38,Aceita,5000.0,3675.0,1.0,1.0,0.0,0.0,Paisagem,Textura
+12572.0,2021-02-11 22:08:13,Aceita,3000.0,2191.0,1.0,1.0,0.0,0.0,Paisagem,Cactus
+12572.0,2021-02-11 22:08:13,Aceita,3000.0,1995.0,1.0,1.0,0.0,0.0,Paisagem,Beira do Mar
+12571.0,2021-02-11 22:38:21,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Escolha o caminho
+12573.0,2021-02-11 22:51:26,Aceita,2034.0,3051.0,1.0,0.0,1.0,0.0,Retrato,Voo
+12573.0,2021-02-11 22:54:35,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Bento
+12573.0,2021-02-11 22:54:35,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,Banho
+3693.0,2021-02-12 00:09:15,Aceita,4128.0,3096.0,1.0,1.0,0.0,0.0,Paisagem,Branca de Neve
+3693.0,2021-02-12 00:15:07,Aceita,3179.0,4238.0,1.0,0.0,1.0,0.0,Retrato,Você tem sede de quê?
+3693.0,2021-02-12 00:15:07,Aceita,3678.0,2757.0,1.0,1.0,0.0,0.0,Paisagem,Cão Cidadão
+12202.0,2021-02-12 00:17:49,Aceita,3500.0,2669.0,1.0,1.0,0.0,0.0,Paisagem,Pela Janela
+3693.0,2021-02-12 00:27:33,Aceita,3096.0,4128.0,1.0,0.0,1.0,0.0,Retrato,Um quê de Banksy
+12565.0,2021-02-12 00:39:02,Aceita,3000.0,1920.0,1.0,1.0,0.0,0.0,Paisagem,Necrose
+5716.0,2021-02-12 01:06:55,Aceita,2030.0,3000.0,1.0,0.0,1.0,0.0,Retrato,O que sobrou do céu
+5716.0,2021-02-12 01:06:55,Aceita,2677.0,4016.0,1.0,0.0,1.0,0.0,Retrato,sem título
+5716.0,2021-02-12 01:19:46,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,sem título
+5716.0,2021-02-12 01:19:46,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,sem título
+12575.0,2021-02-12 02:19:58,Aceita,5819.0,3879.0,1.0,1.0,0.0,0.0,Paisagem,Dia das baianas
+12575.0,2021-02-12 02:21:58,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Flores para Iemanjá
+12575.0,2021-02-12 02:21:58,Aceita,5609.0,3675.0,1.0,1.0,0.0,0.0,Paisagem,Mico Urbano
+12575.0,2021-02-12 02:25:07,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Flores para Rainha das águas
+12576.0,2021-02-12 03:26:11,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Em Tempos de Pandemia
+10549.0,2021-02-12 08:27:32,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,O Descanso do Guerreiro
+10549.0,2021-02-12 08:27:32,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Guardiãs da lagoa
+10549.0,2021-02-12 10:04:13,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Gigantes Seculares
+12198.0,2021-02-12 10:05:24,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Cansaço
+12198.0,2021-02-12 10:05:24,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Dama com Antílope
+10549.0,2021-02-12 10:09:08,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Luzes do Olimpo
+12510.0,2021-02-12 10:47:21,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O passageiro
+12510.0,2021-02-12 10:47:21,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Conectado
+12510.0,2021-02-12 10:50:43,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Quando a esmola se vai...
+12510.0,2021-02-12 10:50:43,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Em pé apesar de tudo...
+12578.0,2021-02-12 11:02:59,Aceita,3000.0,1951.0,1.0,1.0,0.0,0.0,Paisagem,Movimento
+12578.0,2021-02-12 11:02:59,Aceita,2197.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Luz para o céu e para o mar
+12578.0,2021-02-12 11:04:53,Aceita,3000.0,1917.0,1.0,1.0,0.0,0.0,Paisagem,Pequena vida
+12578.0,2021-02-12 11:10:22,Aceita,5063.0,3362.0,1.0,1.0,0.0,0.0,Paisagem,Trilhos
+12198.0,2021-02-12 11:14:18,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Espelho meu
+12198.0,2021-02-12 11:15:53,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Notícia
+7931.0,2021-02-12 11:30:54,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Memória no abandono
+858.0,2021-02-12 12:03:22,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,FOCUS
+858.0,2021-02-12 12:03:22,Aceita,3000.0,2052.0,1.0,1.0,0.0,0.0,Paisagem,JUST DANCE
+858.0,2021-02-12 12:06:17,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,A PROCURA
+858.0,2021-02-12 12:06:17,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,NIGHTFALL
+12230.0,2021-02-12 12:13:01,Aceita,2477.0,3709.0,1.0,0.0,1.0,0.0,Retrato,SOBREVIDA
+12580.0,2021-02-12 12:54:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,meninos curiosos
+12580.0,2021-02-12 12:57:18,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,carijos
+12580.0,2021-02-12 13:00:18,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,malabarista
+12580.0,2021-02-12 13:00:18,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,santuario
+12579.0,2021-02-12 13:19:03,Aceita,3508.0,2480.0,1.0,1.0,0.0,0.0,Paisagem,Trabalhador do mar
+12579.0,2021-02-12 13:19:03,Aceita,6016.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Sol entroncado
+4403.0,2021-02-12 13:19:52,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,"ALAN FONTELES, CAMPEÃO PARALÍMPICO"
+4403.0,2021-02-12 13:19:52,Aceita,3482.0,2336.0,1.0,1.0,0.0,0.0,Paisagem,BRUNA'S BIRTH
+4403.0,2021-02-12 13:22:08,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,CATEDRAL METROPOLITANA DE BRASÍLIA
+4403.0,2021-02-12 13:22:08,Aceita,3326.0,4000.0,1.0,0.0,1.0,0.0,Retrato,O ONTEM E O HOJE
+12058.0,2021-02-12 14:58:20,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,"Griot, defensor da tradição"
+12584.0,2021-02-12 15:01:10,Aceita,3048.0,2032.0,1.0,1.0,0.0,0.0,Paisagem,O vendedor de frutas
+12584.0,2021-02-12 15:01:10,Aceita,3048.0,1670.0,1.0,1.0,0.0,0.0,Paisagem,Brincando na lama
+12507.0,2021-02-12 14:57:02,Aceita,2529.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Sonho de Mulher
+12507.0,2021-02-12 14:57:02,Aceita,4129.0,2729.0,1.0,1.0,0.0,0.0,Paisagem,Triste Fantasia
+1853.0,2021-02-12 15:05:52,Aceita,1996.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Cidade Azul
+1853.0,2021-02-12 15:05:52,Aceita,3000.0,1996.0,1.0,1.0,0.0,0.0,Paisagem,Cuba Libre
+1853.0,2021-02-12 15:06:59,Aceita,1996.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Joanesburgo
+1853.0,2021-02-12 15:06:59,Aceita,1996.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Quem Vem Lá?
+12574.0,2021-02-12 15:30:33,Aceita,3500.0,3508.0,1.0,0.0,1.0,0.0,Retrato,Trabalhando no jardim
+12574.0,2021-02-12 15:30:33,Aceita,3500.0,3455.0,1.0,1.0,0.0,0.0,Paisagem,Coruja contorcionista
+12574.0,2021-02-12 15:33:01,Aceita,5693.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade
+12574.0,2021-02-12 15:33:01,Aceita,5387.0,2814.0,1.0,1.0,0.0,0.0,Paisagem,Princesinha do Vale
+12585.0,2021-02-12 15:48:55,Aceita,3156.0,2104.0,1.0,1.0,0.0,0.0,Paisagem,Sobre o olhar do Mal
+12585.0,2021-02-12 15:48:55,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Dissolução
+12585.0,2021-02-12 15:58:38,Aceita,3488.0,5232.0,1.0,0.0,1.0,0.0,Retrato,I want your blood
+12585.0,2021-02-12 16:05:51,Aceita,4000.0,5333.0,1.0,0.0,1.0,0.0,Retrato,Madame LaLaurie
+5181.0,2021-02-12 17:08:15,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,A doce espera
+5181.0,2021-02-12 17:08:15,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Parceria
+5181.0,2021-02-12 17:08:49,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Renascimento
+5181.0,2021-02-12 17:08:49,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Intensidade
+12387.0,2021-02-12 17:48:03,Aceita,4800.0,3188.0,1.0,1.0,0.0,0.0,Paisagem,Bike Ride
+12387.0,2021-02-12 17:48:03,Aceita,3800.0,2524.0,1.0,1.0,0.0,0.0,Paisagem,Bolhas de sabão
+12387.0,2021-02-12 17:48:59,Aceita,4800.0,3188.0,1.0,1.0,0.0,0.0,Paisagem,Campo Eólico
+12387.0,2021-02-12 17:48:59,Aceita,3200.0,2125.0,1.0,1.0,0.0,0.0,Paisagem,O Vigia
+685.0,2021-02-12 18:01:27,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Esta morena é minha
+685.0,2021-02-12 18:01:27,Aceita,3303.0,3945.0,1.0,0.0,1.0,0.0,Retrato,Na clausura
+685.0,2021-02-12 18:04:19,Aceita,4800.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,No mundo das bexigas
+685.0,2021-02-12 18:04:19,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,O caminho
+12588.0,2021-02-12 18:12:22,Aceita,4800.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,Corpos estranhos
+12588.0,2021-02-12 18:12:22,Aceita,4376.0,3282.0,1.0,1.0,0.0,0.0,Paisagem,Diáfana
+12588.0,2021-02-12 18:13:38,Aceita,4731.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,O tropeço
+12588.0,2021-02-12 18:13:38,Aceita,4800.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,Perseguidos
+12582.0,2021-02-12 18:32:52,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,solidão em meio a multidão
+12582.0,2021-02-12 18:32:52,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,repouso
+12590.0,2021-02-12 18:37:20,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Pipoqueiro
+12590.0,2021-02-12 18:37:20,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Birra no aeroporto
+12582.0,2021-02-12 18:38:20,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,grilo fragmentado
+12582.0,2021-02-12 18:38:20,Aceita,3456.0,4320.0,1.0,0.0,1.0,0.0,Retrato,vazio
+12587.0,2021-02-12 18:39:31,Aceita,3000.0,2104.0,1.0,1.0,0.0,0.0,Paisagem,APOSTOLOS
+12590.0,2021-02-12 18:39:31,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Bons tempos
+12590.0,2021-02-12 18:39:31,Aceita,2667.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Marcas da vida
+12591.0,2021-02-12 18:48:58,Aceita,4681.0,3121.0,1.0,1.0,0.0,0.0,Paisagem,Tarrafada
+12591.0,2021-02-12 18:48:58,Aceita,3048.0,2032.0,1.0,1.0,0.0,0.0,Paisagem,Entrelinhas
+12592.0,2021-02-12 18:49:18,Aceita,3599.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Chaminés da Casa Batló de Gaudi
+12592.0,2021-02-12 18:49:18,Aceita,3600.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Parque das Calanques
+12591.0,2021-02-12 18:50:58,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Simetria
+12591.0,2021-02-12 18:50:58,Aceita,5184.0,2916.0,1.0,1.0,0.0,0.0,Paisagem,Reflexos do meu olhar
+12592.0,2021-02-12 18:51:47,Aceita,3600.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Esperando acabar a pandemia
+12592.0,2021-02-12 18:51:47,Aceita,3600.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Ruas do Porto
+12584.0,2021-02-12 18:54:04,Aceita,1689.0,3048.0,1.0,0.0,1.0,0.0,Retrato,Notícias da China
+12584.0,2021-02-12 18:54:04,Aceita,1902.0,3048.0,1.0,0.0,1.0,0.0,Retrato,Ventos orientais
+12593.0,2021-02-12 18:56:01,Aceita,3190.0,2896.0,1.0,1.0,0.0,0.0,Paisagem,Barqueiro
+12593.0,2021-02-12 18:56:01,Aceita,4000.0,5000.0,1.0,0.0,1.0,0.0,Retrato,Apenas uma Porta
+12593.0,2021-02-12 19:01:19,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Vivendo
+10215.0,2021-02-12 19:08:59,Aceita,3000.0,2141.0,1.0,1.0,0.0,0.0,Paisagem,Vítreo
+12593.0,2021-02-12 19:10:13,Aceita,4189.0,2535.0,1.0,1.0,0.0,0.0,Paisagem,Andarilho
+9497.0,2021-02-12 19:11:36,Aceita,5945.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Jangadas
+9497.0,2021-02-12 19:11:36,Aceita,4320.0,3130.0,1.0,1.0,0.0,0.0,Paisagem,Pescador
+9497.0,2021-02-12 19:12:33,Aceita,4286.0,3009.0,1.0,1.0,0.0,0.0,Paisagem,Trilhos
+9497.0,2021-02-12 19:12:33,Aceita,3871.0,2581.0,1.0,1.0,0.0,0.0,Paisagem,Viaduto
+1142.0,2021-02-12 19:34:58,Aceita,4000.0,3050.0,1.0,1.0,0.0,0.0,Paisagem,Cãopanheiro
+12565.0,2021-02-12 19:58:14,Aceita,4912.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Quando isso tudo passar
+12594.0,2021-02-12 20:00:02,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Mar
+12594.0,2021-02-12 20:00:02,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Luna
+5833.0,2021-02-12 20:22:21,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Espelho d`água
+5833.0,2021-02-12 20:28:38,Aceita,4748.0,3602.0,1.0,1.0,0.0,0.0,Paisagem,Meu Falcão
+5833.0,2021-02-12 20:30:07,Aceita,3067.0,1304.0,1.0,1.0,0.0,0.0,Paisagem,Fortaleza do mar
+11193.0,2021-02-12 21:13:36,Aceita,3562.0,3265.0,1.0,1.0,0.0,0.0,Paisagem,Caminhos
+11193.0,2021-02-12 21:16:18,Aceita,4898.0,3181.0,1.0,1.0,0.0,0.0,Paisagem,Olhar pra frente
+12473.0,2021-02-12 22:57:57,Aceita,3024.0,3024.0,1.0,0.0,0.0,1.0,Quadrada,Companhia
+12473.0,2021-02-12 22:57:57,Aceita,4608.0,3072.0,1.0,1.0,0.0,0.0,Paisagem,O tempo passa
+12473.0,2021-02-12 23:11:42,Aceita,3024.0,3024.0,1.0,0.0,0.0,1.0,Quadrada,Chuva lá fora
+12473.0,2021-02-12 23:11:42,Aceita,3024.0,3024.0,1.0,0.0,0.0,1.0,Quadrada,"Chuva do céu, folha no chão !"
+12558.0,2021-02-13 00:15:10,Aceita,5016.0,3344.0,1.0,1.0,0.0,0.0,Paisagem,O grafismo de Cildo Meireles
+12558.0,2021-02-13 00:15:10,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Desafiando a lei da gravidade
+12597.0,2021-02-13 00:34:22,Aceita,4838.0,3225.0,1.0,1.0,0.0,0.0,Paisagem,Quintal da Minha Infância
+12597.0,2021-02-13 00:34:22,Aceita,3582.0,2491.0,1.0,1.0,0.0,0.0,Paisagem,Sentinela
+12597.0,2021-02-13 01:01:40,Aceita,3246.0,4500.0,1.0,0.0,1.0,0.0,Retrato,O Salto
+12597.0,2021-02-13 01:01:40,Aceita,2224.0,3336.0,1.0,0.0,1.0,0.0,Retrato,Outros Planos
+12598.0,2021-02-13 01:15:25,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Irmãs
+12598.0,2021-02-13 01:17:09,Aceita,4032.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,Gata mimada
+12598.0,2021-02-13 01:17:56,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Carão
+12125.0,2021-02-13 08:58:29,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Sombras
+12125.0,2021-02-13 08:58:29,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Caminhando
+12125.0,2021-02-13 08:59:51,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Barril
+12125.0,2021-02-13 08:59:51,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,reciclagem
+12044.0,2021-02-13 09:37:20,Aceita,2180.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Caminho para o céu
+12044.0,2021-02-13 09:37:20,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Monge Franciscano
+12044.0,2021-02-13 09:38:30,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Pescador Mirim
+12044.0,2021-02-13 09:38:30,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,"Vida simples, vida feliz!"
+10533.0,2021-02-13 09:39:12,Aceita,2448.0,3264.0,1.0,0.0,1.0,0.0,Retrato,Catedral do Carmo
+10533.0,2021-02-13 09:39:12,Aceita,3264.0,2448.0,1.0,1.0,0.0,0.0,Paisagem,Triste quarentena
+10533.0,2021-02-13 09:58:02,Aceita,4725.0,2656.0,1.0,1.0,0.0,0.0,Paisagem,Mistério
+10533.0,2021-02-13 09:58:02,Aceita,3214.0,2410.0,1.0,1.0,0.0,0.0,Paisagem,Ascendente
+12576.0,2021-02-13 10:09:37,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Meiguice
+12576.0,2021-02-13 10:17:37,Aceita,4000.0,2706.0,1.0,1.0,0.0,0.0,Paisagem,Homenagem a Iemanja
+12576.0,2021-02-13 10:28:50,Aceita,3547.0,5319.0,1.0,0.0,1.0,0.0,Retrato,Presente para Iemanja
+12561.0,2021-02-13 10:39:52,Aceita,2491.0,3000.0,1.0,0.0,1.0,0.0,Retrato,O abraço no pai
+12561.0,2021-02-13 10:39:52,Aceita,3000.0,2644.0,1.0,1.0,0.0,0.0,Paisagem,A sabedoria do vovô
+12208.0,2021-02-13 10:45:06,Aceita,3200.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Barba
+12208.0,2021-02-13 10:45:06,Aceita,4724.0,3149.0,1.0,1.0,0.0,0.0,Paisagem,Era uma vez no Xingu
+12208.0,2021-02-13 10:47:52,Aceita,3200.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Batismo
+12602.0,2021-02-13 10:51:44,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,SERELEPE
+12602.0,2021-02-13 10:51:44,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,O ABRAÇO
+12602.0,2021-02-13 10:55:32,Aceita,5650.0,3772.0,1.0,1.0,0.0,0.0,Paisagem,PANDEMISSA
+12602.0,2021-02-13 10:55:32,Aceita,4410.0,2944.0,1.0,1.0,0.0,0.0,Paisagem,O CHORO DO MILAGRE
+12046.0,2021-02-13 10:59:47,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Mocho
+12046.0,2021-02-13 11:05:50,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Saliências
+12223.0,2021-02-13 11:07:08,Aceita,3000.0,1688.0,1.0,1.0,0.0,0.0,Paisagem,Éramos felizes e não sabíamos
+12223.0,2021-02-13 11:07:08,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Churrasquinho do passado
+12046.0,2021-02-13 11:08:53,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Velho do Rio
+12046.0,2021-02-13 11:09:44,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Suprema Arquitetura
+12223.0,2021-02-13 11:11:39,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Texting
+12223.0,2021-02-13 11:11:39,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade do Olhar
+12561.0,2021-02-13 11:47:28,Aceita,3000.0,1847.0,1.0,1.0,0.0,0.0,Paisagem,Empoderamento Feminino
+954.0,2021-02-13 11:57:46,Aceita,1990.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Casa Modernista- 1
+954.0,2021-02-13 11:57:46,Aceita,3543.0,2350.0,1.0,1.0,0.0,0.0,Paisagem,Casa Modernista- 2
+954.0,2021-02-13 11:58:30,Aceita,1990.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Casa Modernista- 2
+954.0,2021-02-13 11:58:30,Aceita,1990.0,3000.0,1.0,0.0,1.0,0.0,Retrato,"Daqui, observo"
+12603.0,2021-02-13 12:25:19,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,O medo de ser Mulher. (ainda) hoje.
+12603.0,2021-02-13 12:25:19,Aceita,3600.0,2700.0,1.0,1.0,0.0,0.0,Paisagem,A suavidade do equilibrio Feminino
+12603.0,2021-02-13 12:27:09,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Mãe e filho brincam no Atlântico
+12603.0,2021-02-13 12:27:09,Aceita,3120.0,2340.0,1.0,1.0,0.0,0.0,Paisagem,A roda da Espera.....
+5833.0,2021-02-13 13:02:20,Aceita,1928.0,3000.0,1.0,0.0,1.0,0.0,Retrato,"Espelho, espelho meu..."
+12604.0,2021-02-13 13:19:17,Aceita,3800.0,2534.0,1.0,1.0,0.0,0.0,Paisagem,Destino Nebuloso
+12604.0,2021-02-13 13:19:17,Aceita,3274.0,2081.0,1.0,1.0,0.0,0.0,Paisagem,Em Busca da Luz
+12604.0,2021-02-13 13:20:25,Aceita,2727.0,4084.0,1.0,0.0,1.0,0.0,Retrato,Distanciamento Social
+12604.0,2021-02-13 13:20:25,Aceita,2593.0,3889.0,1.0,0.0,1.0,0.0,Retrato,Luzes na Estação
+12605.0,2021-02-13 13:32:24,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,O RELOJOEIERO
+12605.0,2021-02-13 13:32:24,Aceita,3000.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,A DIFERENÇA ENTRE ESMOLA E SOLIDARIEDADE
+12605.0,2021-02-13 13:33:07,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,RELAÇÕES HUMANAS
+12605.0,2021-02-13 13:33:38,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,OS DEVOTOS
+12155.0,2021-02-13 13:36:02,Aceita,3000.0,1920.0,1.0,1.0,0.0,0.0,Paisagem,GARÇA
+9096.0,2021-02-13 13:36:51,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Decifra-me ou te devoro
+12155.0,2021-02-13 13:37:10,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,JOAO E O CELEIRO
+12155.0,2021-02-13 13:37:10,Aceita,3000.0,1917.0,1.0,1.0,0.0,0.0,Paisagem,RIBEIRINHA
+12152.0,2021-02-13 13:46:41,Aceita,2120.0,3184.0,1.0,0.0,1.0,0.0,Retrato,Toque Final
+12152.0,2021-02-13 13:46:41,Aceita,3184.0,2120.0,1.0,1.0,0.0,0.0,Paisagem,Vestígios
+9096.0,2021-02-13 13:47:39,Aceita,3000.0,2249.0,1.0,1.0,0.0,0.0,Paisagem,Nas Alturas
+12152.0,2021-02-13 13:47:52,Aceita,2832.0,4256.0,1.0,0.0,1.0,0.0,Retrato,Ilusão
+12152.0,2021-02-13 13:47:52,Aceita,3694.0,2453.0,1.0,1.0,0.0,0.0,Paisagem,Feixe de Luz
+9096.0,2021-02-13 13:48:18,Aceita,3150.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,Voa mais alto
+9096.0,2021-02-13 13:48:36,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Aglomeração
+9112.0,2021-02-13 13:49:49,Aceita,3000.0,2001.0,1.0,1.0,0.0,0.0,Paisagem,Olhar
+9112.0,2021-02-13 13:49:49,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Cachimbo da Paz
+9112.0,2021-02-13 13:50:45,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Entre Linhas
+9112.0,2021-02-13 13:50:45,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Vitória
+6267.0,2021-02-13 14:13:55,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Formigueiro humano
+6267.0,2021-02-13 14:13:55,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Indo as compras
+6267.0,2021-02-13 14:14:32,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Ra / To
+12607.0,2021-02-13 14:30:20,Aceita,3648.0,5472.0,1.0,0.0,1.0,0.0,Retrato,Calma na alma
+12607.0,2021-02-13 14:30:20,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,O andarilho cantante
+12607.0,2021-02-13 14:34:28,Aceita,3648.0,4560.0,1.0,0.0,1.0,0.0,Retrato,cãopanheiro
+12607.0,2021-02-13 14:45:32,Aceita,3369.0,4211.0,1.0,0.0,1.0,0.0,Retrato,Paciência
+6914.0,2021-02-13 14:47:23,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Botas
+6914.0,2021-02-13 14:47:23,Aceita,5398.0,3602.0,1.0,1.0,0.0,0.0,Paisagem,Brasão do Mercadão
+12145.0,2021-02-13 14:54:37,Aceita,2600.0,3900.0,1.0,0.0,1.0,0.0,Retrato,O universo que habita em mim - VII
+12145.0,2021-02-13 14:54:37,Aceita,4243.0,6364.0,1.0,0.0,1.0,0.0,Retrato,Maria e Sebastião
+12145.0,2021-02-13 14:55:21,Aceita,2765.0,4147.0,1.0,0.0,1.0,0.0,Retrato,Isolamento
+12145.0,2021-02-13 14:55:21,Aceita,6720.0,4480.0,1.0,1.0,0.0,0.0,Paisagem,Paz interior
+12557.0,2021-02-13 14:59:51,Aceita,3610.0,2311.0,1.0,1.0,0.0,0.0,Paisagem,CONFLITO ESMAECIDO
+12557.0,2021-02-13 14:59:51,Aceita,6000.0,3368.0,1.0,1.0,0.0,0.0,Paisagem,FINITUDE
+12557.0,2021-02-13 15:02:42,Aceita,5456.0,3009.0,1.0,1.0,0.0,0.0,Paisagem,"AS ROSAS NÃO FALAM, SIMPLESMENTE AS ROSAS EXALAM-CARTOLA"
+12557.0,2021-02-13 15:02:42,Aceita,5940.0,3258.0,1.0,1.0,0.0,0.0,Paisagem,ACOLHIMENTO
+12608.0,2021-02-13 15:03:18,Aceita,2762.0,3682.0,1.0,0.0,1.0,0.0,Retrato,Waiting
+12608.0,2021-02-13 15:07:09,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Bicycle man
+9545.0,2021-02-13 15:12:35,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Expressão Vegetal
+9545.0,2021-02-13 15:12:35,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Ruela em Paris
+9545.0,2021-02-13 15:16:13,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Jardim Interno
+9545.0,2021-02-13 15:16:13,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Visitando Ruínas
+12608.0,2021-02-13 15:22:52,Aceita,2888.0,3851.0,1.0,0.0,1.0,0.0,Retrato,Silhouettes
+12610.0,2021-02-13 16:05:12,Aceita,3843.0,5000.0,1.0,0.0,1.0,0.0,Retrato,Colunas
+12610.0,2021-02-13 16:05:12,Aceita,3333.0,5000.0,1.0,0.0,1.0,0.0,Retrato,Fresta que Guia
+12155.0,2021-02-13 16:12:22,Aceita,3000.0,2135.0,1.0,1.0,0.0,0.0,Paisagem,CORRA MANU
+12608.0,2021-02-13 16:17:38,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Bicycle boy
+12611.0,2021-02-13 16:32:45,Aceita,4000.0,2664.0,1.0,1.0,0.0,0.0,Paisagem,A vida surgindo a cada instante
+12611.0,2021-02-13 16:32:45,Aceita,3000.0,1688.0,1.0,1.0,0.0,0.0,Paisagem,Uma gaivota solitária
+12611.0,2021-02-13 16:34:33,Aceita,3200.0,2375.0,1.0,1.0,0.0,0.0,Paisagem,Casal enamorado
+12611.0,2021-02-13 16:34:33,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Alimento rico em vitamina
+6914.0,2021-02-13 16:48:17,Aceita,2310.0,3655.0,1.0,0.0,1.0,0.0,Retrato,WOMAN AT THE DOOR
+598.0,2021-02-13 16:48:32,Aceita,3449.0,5173.0,1.0,0.0,1.0,0.0,Retrato,TARDE DE VERÃO
+598.0,2021-02-13 16:48:32,Aceita,3192.0,5088.0,1.0,0.0,1.0,0.0,Retrato,ESCALANDO OBSTACULO
+598.0,2021-02-13 16:50:09,Aceita,4324.0,3088.0,1.0,1.0,0.0,0.0,Paisagem,MALABARISMO NA PRAÇA
+6914.0,2021-02-13 16:54:41,Aceita,3479.0,2214.0,1.0,1.0,0.0,0.0,Paisagem,VELOCIDADE
+9705.0,2021-02-13 17:00:20,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Curiosos
+9705.0,2021-02-13 17:00:20,Aceita,3000.0,4499.0,1.0,0.0,1.0,0.0,Retrato,Sombrinha
+9705.0,2021-02-13 17:01:51,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Espelho
+9705.0,2021-02-13 17:01:51,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Jump
+1062.0,2021-02-13 17:39:21,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,Na passarela
+1062.0,2021-02-13 17:39:21,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,A ponte
+1062.0,2021-02-13 17:46:46,Aceita,5460.0,3640.0,1.0,1.0,0.0,0.0,Paisagem,energia
+12614.0,2021-02-13 18:04:50,Aceita,4933.0,3289.0,1.0,1.0,0.0,0.0,Paisagem,Veracidades
+12614.0,2021-02-13 18:04:50,Aceita,5082.0,3388.0,1.0,1.0,0.0,0.0,Paisagem,"Copan, outras curvas"
+12614.0,2021-02-13 18:06:51,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Não são coisas
+12613.0,2021-02-13 18:07:45,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Parece cena de um sonho
+12613.0,2021-02-13 18:07:45,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Ciclista
+9960.0,2021-02-13 18:41:07,Aceita,2448.0,3264.0,1.0,0.0,1.0,0.0,Retrato,Aparecida I
+9960.0,2021-02-13 18:41:07,Aceita,2448.0,3264.0,1.0,0.0,1.0,0.0,Retrato,Aparecida II
+12613.0,2021-02-13 18:41:41,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Escadaria para as nuvens
+12613.0,2021-02-13 18:41:41,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Acesso fechado
+9960.0,2021-02-13 18:44:28,Aceita,3264.0,2448.0,1.0,1.0,0.0,0.0,Paisagem,Aparecida III
+2323.0,2021-02-13 18:53:09,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Em contrução
+2323.0,2021-02-13 18:53:09,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Olhar
+2323.0,2021-02-13 18:54:43,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,De baixo para cima
+2323.0,2021-02-13 18:54:43,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Infinito
+12187.0,2021-02-13 18:44:24,Aceita,3659.0,2440.0,1.0,1.0,0.0,0.0,Paisagem,Velha Infância
+12187.0,2021-02-13 18:44:24,Aceita,3406.0,2273.0,1.0,1.0,0.0,0.0,Paisagem,Proteção
+9960.0,2021-02-13 18:57:34,Aceita,4160.0,3120.0,1.0,1.0,0.0,0.0,Paisagem,Natureza no asfalto.
+12191.0,2021-02-13 20:18:40,Aceita,3600.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,DUAS
+12191.0,2021-02-13 20:18:40,Aceita,3692.0,2461.0,1.0,1.0,0.0,0.0,Paisagem,PASSEIO MATINAL
+12191.0,2021-02-13 20:20:12,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,GUARDIÃO
+12191.0,2021-02-13 20:20:12,Aceita,4000.0,2420.0,1.0,1.0,0.0,0.0,Paisagem,MARCAS DO CAMINHO
+12618.0,2021-02-13 20:26:03,Aceita,4660.0,3500.0,1.0,1.0,0.0,0.0,Paisagem,Desafiação
+12618.0,2021-02-13 20:26:03,Aceita,3010.0,4500.0,1.0,0.0,1.0,0.0,Retrato,Homem de Bonaire
+12618.0,2021-02-13 20:29:56,Aceita,2365.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Guinada
+12618.0,2021-02-13 20:29:56,Aceita,3543.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,Idas e Vindas
+5221.0,2021-02-13 20:34:34,Aceita,4500.0,2784.0,1.0,1.0,0.0,0.0,Paisagem,A Direção
+5221.0,2021-02-13 20:34:34,Aceita,5001.0,3017.0,1.0,1.0,0.0,0.0,Paisagem,The Wall
+12616.0,2021-02-13 20:34:05,Aceita,3543.0,5315.0,1.0,0.0,1.0,0.0,Retrato,Homes de Preto
+12616.0,2021-02-13 20:34:05,Aceita,5315.0,3543.0,1.0,1.0,0.0,0.0,Paisagem,Casa de Pedra
+5221.0,2021-02-13 20:36:21,Aceita,4500.0,2598.0,1.0,1.0,0.0,0.0,Paisagem,Vista D'Ouro
+5221.0,2021-02-13 20:36:21,Aceita,8000.0,4869.0,1.0,1.0,0.0,0.0,Paisagem,Luzes às margens da cidade
+12619.0,2021-02-13 20:38:38,Aceita,5555.0,3703.0,1.0,1.0,0.0,0.0,Paisagem,Abelhas
+12619.0,2021-02-13 20:40:55,Aceita,2652.0,3978.0,1.0,0.0,1.0,0.0,Retrato,Estrela de folha
+12619.0,2021-02-13 20:43:43,Aceita,5982.0,3988.0,1.0,1.0,0.0,0.0,Paisagem,Flor do mato
+12619.0,2021-02-13 21:25:56,Aceita,3463.0,2016.0,1.0,1.0,0.0,0.0,Paisagem,Carvoaria
+10202.0,2021-02-13 21:31:05,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Uma tarde em Paris
+10202.0,2021-02-13 21:31:05,Aceita,4564.0,3371.0,1.0,1.0,0.0,0.0,Paisagem,Filhotes
+10202.0,2021-02-13 21:49:48,Aceita,5478.0,3652.0,1.0,1.0,0.0,0.0,Paisagem,Felicidade
+10202.0,2021-02-13 21:49:48,Aceita,5328.0,3552.0,1.0,1.0,0.0,0.0,Paisagem,Trabalhadora de Mariana
+1424.0,2021-02-13 22:19:10,Aceita,4032.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,Espelho
+1424.0,2021-02-13 22:19:10,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Travessia
+12620.0,2021-02-13 22:19:47,Aceita,2404.0,3606.0,1.0,0.0,1.0,0.0,Retrato,O Centro do Mundo
+12620.0,2021-02-13 22:19:47,Aceita,2912.0,4368.0,1.0,0.0,1.0,0.0,Retrato,O Violeiro
+1424.0,2021-02-13 22:27:23,Aceita,4032.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,Mosaico
+1424.0,2021-02-13 22:29:33,Aceita,4032.0,2688.0,1.0,1.0,0.0,0.0,Paisagem,Embarque
+12621.0,2021-02-13 23:01:34,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Best Friends
+12621.0,2021-02-13 23:01:34,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Jesus em SP
+12622.0,2021-02-13 23:17:14,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,O menino e a pedra
+12622.0,2021-02-13 23:17:14,Aceita,4774.0,3184.0,1.0,1.0,0.0,0.0,Paisagem,Noite fria em São Paulo
+1284.0,2021-02-13 23:20:47,Aceita,2953.0,4487.0,1.0,0.0,1.0,0.0,Retrato,A Liberdade
+1284.0,2021-02-13 23:20:47,Aceita,3650.0,2402.0,1.0,1.0,0.0,0.0,Paisagem,Janela das Dunas
+12622.0,2021-02-13 23:20:39,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,O homem sem cabeça
+1284.0,2021-02-13 23:22:54,Aceita,2726.0,4089.0,1.0,0.0,1.0,0.0,Retrato,Vida Enclausurada
+1284.0,2021-02-13 23:22:54,Aceita,3462.0,5193.0,1.0,0.0,1.0,0.0,Retrato,Na Silenciosa Paz
+12622.0,2021-02-13 23:26:59,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,O último gole
+12187.0,2021-02-13 23:23:23,Aceita,3339.0,2224.0,1.0,1.0,0.0,0.0,Paisagem,Solidão
+12544.0,2021-02-13 23:32:33,Aceita,3008.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Bicicleta
+12544.0,2021-02-13 23:32:33,Aceita,3008.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Violão
+12544.0,2021-02-13 23:32:53,Aceita,3008.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Folha
+12544.0,2021-02-13 23:33:15,Aceita,3008.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Praia
+12623.0,2021-02-13 23:34:06,Aceita,3690.0,3275.0,1.0,1.0,0.0,0.0,Paisagem,Esperança
+12623.0,2021-02-13 23:34:06,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Correr
+12623.0,2021-02-13 23:36:19,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,Sombras
+12623.0,2021-02-13 23:36:19,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Solidão
+10508.0,2021-02-13 23:38:33,Aceita,3013.0,3013.0,1.0,0.0,0.0,1.0,Quadrada,O Sanfoneiro
+10508.0,2021-02-13 23:38:33,Aceita,5831.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,O Regresso
+12187.0,2021-02-13 23:32:52,Aceita,3910.0,2202.0,1.0,1.0,0.0,0.0,Paisagem,Liberdade
+10508.0,2021-02-13 23:39:51,Aceita,4980.0,3320.0,1.0,1.0,0.0,0.0,Paisagem,Sombras de Eternos Passageiros
+10508.0,2021-02-13 23:39:51,Aceita,4912.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,"Gafurina, O Palhaço"
+12193.0,2021-02-14 01:11:53,Aceita,3752.0,5000.0,1.0,0.0,1.0,0.0,Retrato,"Força, Fé e Esperança"
+12193.0,2021-02-14 01:11:53,Aceita,3999.0,5000.0,1.0,0.0,1.0,0.0,Retrato,Tulipas brancas
+12193.0,2021-02-14 01:13:52,Aceita,5000.0,3751.0,1.0,1.0,0.0,0.0,Paisagem,Theatro Municipal do Rio de Janeiro
+12193.0,2021-02-14 01:13:52,Aceita,5000.0,5000.0,1.0,0.0,0.0,1.0,Quadrada,Azeitonas pretas
+12625.0,2021-02-14 01:22:18,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,A luz é para todos
+7501.0,2021-02-14 04:18:29,Aceita,6751.0,4500.0,1.0,1.0,0.0,0.0,Paisagem,Descobrindo-se
+7501.0,2021-02-14 04:18:29,Aceita,5934.0,4500.0,1.0,1.0,0.0,0.0,Paisagem,Solo Indígena
+7501.0,2021-02-14 05:08:50,Aceita,7715.0,5250.0,1.0,1.0,0.0,0.0,Paisagem,Confidencial
+7501.0,2021-02-14 05:08:50,Aceita,5475.0,3650.0,1.0,1.0,0.0,0.0,Paisagem,Jardim do Éden
+10032.0,2021-02-14 05:49:03,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,PARE O ABUSO DE PODER
+10032.0,2021-02-14 05:49:03,Aceita,4000.0,6000.0,1.0,0.0,1.0,0.0,Retrato,Atenção: Isso pode ser um poema
+10032.0,2021-02-14 05:53:30,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Don't cry for me
+10032.0,2021-02-14 05:53:30,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Res(piro)
+12234.0,2021-02-14 08:53:11,Aceita,4800.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Destinos
+12234.0,2021-02-14 08:53:11,Aceita,3999.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,Dimensões
+12234.0,2021-02-14 08:54:46,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Ensejo
+12234.0,2021-02-14 08:54:46,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Retratos
+9606.0,2021-02-14 09:36:57,Aceita,2459.0,3467.0,1.0,0.0,1.0,0.0,Retrato,De ponta cabeça
+9606.0,2021-02-14 09:36:57,Aceita,3265.0,4353.0,1.0,0.0,1.0,0.0,Retrato,A magia das águas
+9606.0,2021-02-14 09:38:11,Aceita,2625.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Escondida
+9606.0,2021-02-14 09:38:11,Aceita,2625.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Vida longa
+12628.0,2021-02-14 10:13:53,Aceita,3456.0,5184.0,1.0,0.0,1.0,0.0,Retrato,A arte do ofício
+12628.0,2021-02-14 10:13:53,Aceita,3243.0,4865.0,1.0,0.0,1.0,0.0,Retrato,Café com Arte
+12628.0,2021-02-14 10:15:17,Aceita,4272.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Pouso ou Decolagem???
+12628.0,2021-02-14 10:20:05,Aceita,4566.0,3137.0,1.0,1.0,0.0,0.0,Paisagem,Um trago
+6588.0,2021-02-14 10:55:49,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,
+6588.0,2021-02-14 11:02:24,Aceita,3021.0,4134.0,1.0,0.0,1.0,0.0,Retrato,PANTANEIRO
+6588.0,2021-02-14 11:03:24,Aceita,3098.0,4134.0,1.0,0.0,1.0,0.0,Retrato,PEÃO
+6588.0,2021-02-14 11:05:37,Aceita,4134.0,2892.0,1.0,1.0,0.0,0.0,Paisagem,PÓS COLHEITA
+12631.0,2021-02-14 11:13:03,Aceita,2066.0,3100.0,1.0,0.0,1.0,0.0,Retrato,Olhar ao longe - a beleza de uma albina
+12631.0,2021-02-14 11:13:03,Aceita,3100.0,2066.0,1.0,1.0,0.0,0.0,Paisagem,Paz - a beleza de uma albina
+12631.0,2021-02-14 11:15:24,Aceita,2066.0,3100.0,1.0,0.0,1.0,0.0,Retrato,Ás escondidas - a beleza de uma albina
+12632.0,2021-02-14 11:17:04,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,maloka
+12632.0,2021-02-14 11:17:04,Aceita,3543.0,2365.0,1.0,1.0,0.0,0.0,Paisagem,caretas
+12631.0,2021-02-14 11:17:33,Aceita,2066.0,3100.0,1.0,0.0,1.0,0.0,Retrato,O abraço - a beleza de uma albina
+12226.0,2021-02-14 11:35:54,Aceita,3500.0,2286.0,1.0,1.0,0.0,0.0,Paisagem,Quatro Janelas
+12226.0,2021-02-14 11:35:54,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Lockdown
+2016.0,2021-02-14 11:36:00,Aceita,5176.0,3881.0,1.0,1.0,0.0,0.0,Paisagem,O Pescador
+2016.0,2021-02-14 11:36:00,Aceita,4742.0,3162.0,1.0,1.0,0.0,0.0,Paisagem,Linhas secas
+12393.0,2021-02-14 11:45:33,Aceita,5594.0,3964.0,1.0,1.0,0.0,0.0,Paisagem,Alegria do Vô Biso!!
+12393.0,2021-02-14 11:45:33,Aceita,5670.0,3780.0,1.0,1.0,0.0,0.0,Paisagem,Olha a chuva!!
+10182.0,2021-02-14 12:12:19,Aceita,4000.0,2660.0,1.0,1.0,0.0,0.0,Paisagem,"aulas on line , embu das artes"
+10182.0,2021-02-14 12:12:19,Aceita,4000.0,2660.0,1.0,1.0,0.0,0.0,Paisagem,"La casa de papel, parque central"
+12226.0,2021-02-14 12:12:38,Aceita,3000.0,2211.0,1.0,1.0,0.0,0.0,Paisagem,Beleza e Caos!
+12226.0,2021-02-14 12:12:38,Aceita,2667.0,4000.0,1.0,0.0,1.0,0.0,Retrato,A Vida que o Tempo leva!
+10182.0,2021-02-14 12:16:17,Aceita,2660.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Aulas online
+10182.0,2021-02-14 12:16:17,Aceita,4000.0,2660.0,1.0,1.0,0.0,0.0,Paisagem,La casa de papel
+4399.0,2021-02-14 12:24:48,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Ao mar...
+4399.0,2021-02-14 12:26:10,Aceita,4896.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Calma
+12634.0,2021-02-14 12:26:53,Aceita,3095.0,4642.0,1.0,0.0,1.0,0.0,Retrato,Vida que segue
+12634.0,2021-02-14 12:26:53,Aceita,4160.0,6240.0,1.0,0.0,1.0,0.0,Retrato,Para nao cair
+12635.0,2021-02-14 12:29:15,Aceita,5232.0,3488.0,1.0,1.0,0.0,0.0,Paisagem,Amanhecer no Fitz Roy
+12635.0,2021-02-14 12:29:15,Aceita,13010.0,5004.0,1.0,1.0,0.0,0.0,Paisagem,Duas Lagunas
+12634.0,2021-02-14 12:32:12,Aceita,4160.0,6240.0,1.0,0.0,1.0,0.0,Retrato,Nas tramas
+12634.0,2021-02-14 12:32:12,Aceita,2667.0,4000.0,1.0,0.0,1.0,0.0,Retrato,Festejos
+12635.0,2021-02-14 12:33:05,Aceita,2923.0,4385.0,1.0,0.0,1.0,0.0,Retrato,Siriema Cantando
+12635.0,2021-02-14 12:33:44,Aceita,4682.0,3712.0,1.0,1.0,0.0,0.0,Paisagem,Olhar Felino
+12499.0,2021-02-14 13:00:23,Aceita,4000.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,PORTINHO
+12499.0,2021-02-14 13:00:23,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,CONVERSA DOMINGUEIRA
+12636.0,2021-02-14 13:01:42,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,João Barba
+12636.0,2021-02-14 13:01:42,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Menino da porteira
+12629.0,2021-02-14 13:08:30,Aceita,5450.0,3633.0,1.0,1.0,0.0,0.0,Paisagem,Viagem em pé
+12629.0,2021-02-14 13:08:30,Aceita,5450.0,4616.0,1.0,1.0,0.0,0.0,Paisagem,O tempo no trem
+11204.0,2021-02-14 13:08:35,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,tico- tico.
+11204.0,2021-02-14 13:08:35,Aceita,3000.0,1684.0,1.0,1.0,0.0,0.0,Paisagem,NINA
+12636.0,2021-02-14 13:10:06,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Tio Tonho
+12636.0,2021-02-14 13:10:06,Aceita,3000.0,1999.0,1.0,1.0,0.0,0.0,Paisagem,Entre cortinas
+12499.0,2021-02-14 13:12:29,Aceita,3600.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,CASA DA BALANÇA DO ENGENHO
+12609.0,2021-02-14 13:12:55,Aceita,3000.0,2229.0,1.0,1.0,0.0,0.0,Paisagem,Neblina
+12609.0,2021-02-14 13:12:55,Aceita,2151.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Lemonzin
+12609.0,2021-02-14 13:14:35,Aceita,3000.0,2101.0,1.0,1.0,0.0,0.0,Paisagem,Coruja
+12609.0,2021-02-14 13:14:35,Aceita,2157.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Bruma
+11204.0,2021-02-14 13:15:30,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,CANÁRIO DA TERRA
+12499.0,2021-02-14 13:18:14,Aceita,3600.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,CASA DAS MÁQUINAS-ENGORDADOR
+12629.0,2021-02-14 13:18:35,Aceita,5450.0,4087.0,1.0,1.0,0.0,0.0,Paisagem,Domingo paulistano
+8839.0,2021-02-14 13:36:38,Aceita,2250.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Tree of Life
+8839.0,2021-02-14 13:36:38,Aceita,3000.0,2002.0,1.0,1.0,0.0,0.0,Paisagem,Across the Universe
+8839.0,2021-02-14 13:48:47,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,The Wait
+8839.0,2021-02-14 13:48:47,Aceita,3000.0,1688.0,1.0,1.0,0.0,0.0,Paisagem,Chálten
+12612.0,2021-02-14 13:48:18,Aceita,3096.0,4128.0,1.0,0.0,1.0,0.0,Retrato,Arranha o Céu
+12612.0,2021-02-14 13:48:18,Aceita,2927.0,3201.0,1.0,0.0,1.0,0.0,Retrato,A Passarela
+12612.0,2021-02-14 13:50:48,Aceita,4013.0,3010.0,1.0,1.0,0.0,0.0,Paisagem,Canoas
+12612.0,2021-02-14 13:50:48,Aceita,6008.0,4008.0,1.0,1.0,0.0,0.0,Paisagem,Quarentena
+4260.0,2021-02-14 13:51:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Misterious Lady from Cannes
+4260.0,2021-02-14 13:51:45,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Falling Sky
+11204.0,2021-02-14 14:17:32,Aceita,3000.0,1987.0,1.0,1.0,0.0,0.0,Paisagem,anu -branco
+12221.0,2021-02-14 14:26:31,Aceita,4800.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,Caminhada Matinal
+12221.0,2021-02-14 14:26:31,Aceita,4800.0,3252.0,1.0,1.0,0.0,0.0,Paisagem,Crianças Maranhenses
+12221.0,2021-02-14 14:29:32,Aceita,3200.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Trabalhador do Mar
+12221.0,2021-02-14 14:29:32,Aceita,4800.0,3200.0,1.0,1.0,0.0,0.0,Paisagem,Último a partir
+4260.0,2021-02-14 14:37:48,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Waiting...
+4260.0,2021-02-14 14:37:48,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Slave of Luxury
+12054.0,2021-02-14 14:39:32,Aceita,4000.0,2649.0,1.0,1.0,0.0,0.0,Paisagem,Em repouso
+12054.0,2021-02-14 14:39:32,Aceita,4800.0,3597.0,1.0,1.0,0.0,0.0,Paisagem,Silêncio
+12630.0,2021-02-14 14:39:38,Aceita,3864.0,2898.0,1.0,1.0,0.0,0.0,Paisagem,Cascos e pedras
+12630.0,2021-02-14 14:39:38,Aceita,3120.0,3900.0,1.0,0.0,1.0,0.0,Retrato,No fundo do vale
+12054.0,2021-02-14 14:40:55,Aceita,4800.0,3179.0,1.0,1.0,0.0,0.0,Paisagem,Dama da Noite
+12054.0,2021-02-14 14:40:55,Aceita,4000.0,2649.0,1.0,1.0,0.0,0.0,Paisagem,Sob a ponte
+12630.0,2021-02-14 14:45:45,Aceita,3041.0,3801.0,1.0,0.0,1.0,0.0,Retrato,O peso
+12630.0,2021-02-14 14:45:45,Aceita,3120.0,3900.0,1.0,0.0,1.0,0.0,Retrato,Me empurra
+12633.0,2021-02-14 14:45:57,Aceita,4000.0,2795.0,1.0,1.0,0.0,0.0,Paisagem,PLUMA E ROCHA
+12633.0,2021-02-14 14:46:29,Aceita,5000.0,2310.0,1.0,1.0,0.0,0.0,Paisagem,ALVORADA NA ESPLANADA
+12633.0,2021-02-14 14:47:11,Aceita,2668.0,4000.0,1.0,0.0,1.0,0.0,Retrato,CANION BAHIA
+12633.0,2021-02-14 14:48:22,Aceita,3000.0,4000.0,1.0,0.0,1.0,0.0,Retrato,ARTSCIENCE MUSEUM
+12627.0,2021-02-14 15:02:25,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Metamorfose
+12627.0,2021-02-14 15:02:25,Aceita,6345.0,4230.0,1.0,1.0,0.0,0.0,Paisagem,Mar de Nuvens
+12196.0,2021-02-14 15:04:02,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Ao pé do templo
+12196.0,2021-02-14 15:04:02,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Varanasi
+12204.0,2021-02-14 15:05:56,Aceita,3800.0,2496.0,1.0,1.0,0.0,0.0,Paisagem,Filhos do Mangue
+12204.0,2021-02-14 15:05:56,Aceita,3445.0,2306.0,1.0,1.0,0.0,0.0,Paisagem,Crianças de Mucugê
+12196.0,2021-02-14 15:06:34,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Mais Amor
+12196.0,2021-02-14 15:06:34,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,O Encantador de serpentes
+12586.0,2021-02-14 15:13:14,Aceita,4160.0,3120.0,1.0,1.0,0.0,0.0,Paisagem,Pérgula
+12640.0,2021-02-14 15:17:26,Aceita,3000.0,4500.0,1.0,0.0,1.0,0.0,Retrato,pausa
+12204.0,2021-02-14 15:17:20,Aceita,3782.0,2532.0,1.0,1.0,0.0,0.0,Paisagem,A Busca
+12204.0,2021-02-14 15:17:20,Aceita,2333.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Meninos de Ecatú
+12627.0,2021-02-14 15:17:52,Aceita,5396.0,2866.0,1.0,1.0,0.0,0.0,Paisagem,Harmonia
+12627.0,2021-02-14 15:17:52,Aceita,4192.0,2795.0,1.0,1.0,0.0,0.0,Paisagem,Desolada
+12640.0,2021-02-14 15:18:20,Aceita,3578.0,2590.0,1.0,1.0,0.0,0.0,Paisagem,anoitecendo
+12586.0,2021-02-14 15:18:30,Aceita,3024.0,4032.0,1.0,0.0,1.0,0.0,Retrato,Gigante
+12640.0,2021-02-14 15:19:54,Aceita,4395.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,domingonafeira
+12640.0,2021-02-14 15:20:32,Aceita,4284.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,estacao
+12586.0,2021-02-14 15:21:00,Aceita,4379.0,3031.0,1.0,1.0,0.0,0.0,Paisagem,Colmeia
+12643.0,2021-02-14 15:50:31,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Cartografia Helioiticiana 3
+12200.0,2021-02-14 15:51:40,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,Descanso na Praça
+12643.0,2021-02-14 15:51:51,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Cartografia Helioiticiana 2
+12639.0,2021-02-14 15:53:24,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Encontros no beco
+12639.0,2021-02-14 15:53:24,Aceita,2000.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Luz de parede
+12200.0,2021-02-14 15:54:30,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Futebol de rua
+12639.0,2021-02-14 15:55:51,Aceita,3000.0,2400.0,1.0,1.0,0.0,0.0,Paisagem,Para fazer rapadura como antigamente
+8781.0,2021-02-14 15:56:52,Aceita,4000.0,2667.0,1.0,1.0,0.0,0.0,Paisagem,Abandono
+8781.0,2021-02-14 15:56:52,Aceita,5000.0,3333.0,1.0,1.0,0.0,0.0,Paisagem,Prisão de pano
+8781.0,2021-02-14 15:57:41,Aceita,3500.0,4666.0,1.0,0.0,1.0,0.0,Retrato,Indignação
+8781.0,2021-02-14 15:57:41,Aceita,4000.0,2666.0,1.0,1.0,0.0,0.0,Paisagem,Ir ou vir
+12642.0,2021-02-14 15:54:38,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Use máscara e não fume
+12646.0,2021-02-14 16:00:45,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,COSTURANDO A VIDA
+12645.0,2021-02-14 16:01:17,Aceita,3000.0,2134.0,1.0,1.0,0.0,0.0,Paisagem,Festa
+12645.0,2021-02-14 16:01:17,Aceita,3000.0,2008.0,1.0,1.0,0.0,0.0,Paisagem,Filhos do Silêncio
+12646.0,2021-02-14 16:02:38,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,A JORNADA
+12645.0,2021-02-14 16:02:35,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Trabalhador
+12645.0,2021-02-14 16:02:35,Aceita,2257.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Fé
+12646.0,2021-02-14 16:02:38,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,O QUE FICOU PARA TRÁS
+12648.0,2021-02-14 16:06:37,Aceita,5758.0,3839.0,1.0,1.0,0.0,0.0,Paisagem,Lençóis Maranhenses
+12648.0,2021-02-14 16:06:37,Aceita,5795.0,3261.0,1.0,1.0,0.0,0.0,Paisagem,Fitz Roy
+12648.0,2021-02-14 16:07:44,Aceita,4480.0,6720.0,1.0,0.0,1.0,0.0,Retrato,Cemitério de Trens - Uyuni - Bolívia
+12648.0,2021-02-14 16:08:10,Aceita,6222.0,4480.0,1.0,1.0,0.0,0.0,Paisagem,Arames da Cerca
+12646.0,2021-02-14 16:12:41,Aceita,3500.0,3500.0,1.0,0.0,0.0,1.0,Quadrada,AS FORMAS DE RESPIRAR
+12647.0,2021-02-14 16:12:56,Aceita,4834.0,3223.0,1.0,1.0,0.0,0.0,Paisagem,Galinha Carijó
+12647.0,2021-02-14 16:12:56,Aceita,4896.0,3264.0,1.0,1.0,0.0,0.0,Paisagem,Teiú banho de sol
+12649.0,2021-02-14 16:13:21,Aceita,2047.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Ponte
+12649.0,2021-02-14 16:13:21,Aceita,2079.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Trilhos
+12649.0,2021-02-14 16:14:07,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Divino
+12649.0,2021-02-14 16:14:07,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Iluminado
+12647.0,2021-02-14 16:17:35,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Gafanhoto
+12647.0,2021-02-14 16:17:35,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Olhar Sereno
+12650.0,2021-02-14 16:23:01,Aceita,2120.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Senhora
+12650.0,2021-02-14 16:23:01,Aceita,2261.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Menina
+12650.0,2021-02-14 16:23:35,Aceita,3000.0,2167.0,1.0,1.0,0.0,0.0,Paisagem,Brincando
+12650.0,2021-02-14 16:23:35,Aceita,2096.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Vozinha
+12235.0,2021-02-14 16:25:50,Aceita,3074.0,2196.0,1.0,1.0,0.0,0.0,Paisagem,Pintores
+12235.0,2021-02-14 16:25:50,Aceita,4031.0,2765.0,1.0,1.0,0.0,0.0,Paisagem,Em casa
+12654.0,2021-02-14 16:30:17,Aceita,3000.0,2061.0,1.0,1.0,0.0,0.0,Paisagem,Sambando sobre  a Cidade
+12654.0,2021-02-14 16:30:17,Aceita,3000.0,2061.0,1.0,1.0,0.0,0.0,Paisagem,Nebina no Mar
+12654.0,2021-02-14 16:31:21,Aceita,3000.0,2249.0,1.0,1.0,0.0,0.0,Paisagem,Mvua - Tempestade chegando
+12654.0,2021-02-14 16:31:21,Aceita,3000.0,2248.0,1.0,1.0,0.0,0.0,Paisagem,Ukungu
+12655.0,2021-02-14 16:35:00,Aceita,1821.0,3401.0,1.0,0.0,1.0,0.0,Retrato,"Pankeka, a gata charmosa"
+12655.0,2021-02-14 16:40:01,Aceita,3120.0,3858.0,1.0,0.0,1.0,0.0,Retrato,Abandono
+12655.0,2021-02-14 16:41:51,Aceita,3120.0,3694.0,1.0,0.0,1.0,0.0,Retrato,Uma casa seus escombros
+12653.0,2021-02-14 16:52:50,Aceita,2325.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Retrato
+12653.0,2021-02-14 16:52:50,Aceita,2230.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Senhorita
+12653.0,2021-02-14 16:53:39,Aceita,2240.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Fazenda
+12653.0,2021-02-14 16:53:39,Aceita,2180.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Mimo
+6742.0,2021-02-14 16:54:23,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Abandono
+5839.0,2021-02-14 16:54:52,Aceita,3264.0,2448.0,1.0,1.0,0.0,0.0,Paisagem,Lençol Branco
+5839.0,2021-02-14 16:54:52,Aceita,3024.0,4019.0,1.0,0.0,1.0,0.0,Retrato,Prefeitura
+5839.0,2021-02-14 16:55:49,Aceita,4029.0,3024.0,1.0,1.0,0.0,0.0,Paisagem,A Bela da Tarde
+5839.0,2021-02-14 16:55:49,Aceita,3024.0,4019.0,1.0,0.0,1.0,0.0,Retrato,O Pássaro
+12641.0,2021-02-14 16:55:51,Aceita,3600.0,2700.0,1.0,1.0,0.0,0.0,Paisagem,Andando pela Urca 193258
+8901.0,2021-02-14 16:56:53,Aceita,3000.0,1990.0,1.0,1.0,0.0,0.0,Paisagem,Passeio no parque
+8901.0,2021-02-14 16:56:53,Aceita,4888.0,3252.0,1.0,1.0,0.0,0.0,Paisagem,Na luz do sol
+12655.0,2021-02-14 16:57:08,Aceita,2577.0,3287.0,1.0,0.0,1.0,0.0,Retrato,Minha princesa Roly
+12641.0,2021-02-14 16:58:55,Aceita,3800.0,2533.0,1.0,1.0,0.0,0.0,Paisagem,Deixa Fluir 9092
+12641.0,2021-02-14 16:58:55,Aceita,2533.0,3800.0,1.0,0.0,1.0,0.0,Retrato,Nuvens 6567
+8901.0,2021-02-14 16:58:59,Aceita,4256.0,2832.0,1.0,1.0,0.0,0.0,Paisagem,No mato
+8901.0,2021-02-14 16:58:59,Aceita,4094.0,2724.0,1.0,1.0,0.0,0.0,Paisagem,Aconchego
+12639.0,2021-02-14 17:01:50,Aceita,3000.0,2002.0,1.0,1.0,0.0,0.0,Paisagem,Ser tão árido
+12235.0,2021-02-14 17:04:01,Aceita,4207.0,2804.0,1.0,1.0,0.0,0.0,Paisagem,Visionário
+12235.0,2021-02-14 17:04:01,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Parque de Diversão
+12658.0,2021-02-14 17:04:11,Aceita,4541.0,3056.0,1.0,1.0,0.0,0.0,Paisagem,Andanças
+12656.0,2021-02-14 17:04:20,Aceita,4080.0,2820.0,1.0,1.0,0.0,0.0,Paisagem,Cemitério de Campanha. Cambará do Sul/RS
+12656.0,2021-02-14 17:04:20,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,"Estrada da Fortaleza, Cambará do Sul/RS"
+12658.0,2021-02-14 17:05:09,Aceita,4592.0,3056.0,1.0,1.0,0.0,0.0,Paisagem,Poder da Luz
+12658.0,2021-02-14 17:05:09,Aceita,4507.0,2854.0,1.0,1.0,0.0,0.0,Paisagem,Carro Cubano
+12652.0,2021-02-14 17:07:10,Aceita,2309.0,3464.0,1.0,0.0,1.0,0.0,Retrato,Exausta pela pandemia
+12652.0,2021-02-14 17:07:10,Aceita,3000.0,3000.0,1.0,0.0,0.0,1.0,Quadrada,Fortaleza de Peniche
+12102.0,2021-02-14 17:07:41,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Anciãos
+12102.0,2021-02-14 17:07:41,Aceita,2144.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Cervantes e os Meninos
+12102.0,2021-02-14 17:08:23,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Imigrantes
+12102.0,2021-02-14 17:08:23,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,Trabalhadores
+12656.0,2021-02-14 17:08:40,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,Gata Maria
+12409.0,2021-02-14 17:08:46,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,A vida é um rio
+12656.0,2021-02-14 17:08:40,Aceita,4752.0,3168.0,1.0,1.0,0.0,0.0,Paisagem,Cão Curioso
+12641.0,2021-02-14 17:09:17,Aceita,2700.0,3600.0,1.0,0.0,1.0,0.0,Retrato,Andando por Santa 154815
+12657.0,2021-02-14 17:10:39,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,O Tempo Suspenso
+12657.0,2021-02-14 17:10:39,Aceita,3240.0,2160.0,1.0,1.0,0.0,0.0,Paisagem,Fio de Pássaros
+598.0,2021-02-14 17:11:22,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,FAMILIA: MEU TESOURO
+6743.0,2021-02-14 17:13:56,Aceita,3000.0,2003.0,1.0,1.0,0.0,0.0,Paisagem,"Bahia, crenças e fé"
+12657.0,2021-02-14 17:13:59,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Cicatrizes
+6743.0,2021-02-14 17:13:56,Aceita,5892.0,4416.0,1.0,1.0,0.0,0.0,Paisagem,Peixe voador
+12657.0,2021-02-14 17:16:21,Aceita,3862.0,2619.0,1.0,1.0,0.0,0.0,Paisagem,Dois Mundos
+12659.0,2021-02-14 17:17:53,Aceita,3283.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Alegoria
+12659.0,2021-02-14 17:17:53,Aceita,3288.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Atlântis
+10850.0,2021-02-14 17:18:26,Aceita,4500.0,3000.0,1.0,1.0,0.0,0.0,Paisagem,ESPIADINHA NO VÃO DO VAZIO
+10850.0,2021-02-14 17:18:26,Aceita,4500.0,3205.0,1.0,1.0,0.0,0.0,Paisagem,PARQUE QUE ECOA NO SILÊNCIO
+12659.0,2021-02-14 17:18:36,Aceita,3429.0,4800.0,1.0,0.0,1.0,0.0,Retrato,Raio X Alienígena
+12659.0,2021-02-14 17:18:36,Aceita,4800.0,3600.0,1.0,1.0,0.0,0.0,Paisagem,Transparência
+12652.0,2021-02-14 17:19:45,Aceita,3013.0,2009.0,1.0,1.0,0.0,0.0,Paisagem,Brooklyn Bridge
+12652.0,2021-02-14 17:19:45,Aceita,2309.0,3464.0,1.0,0.0,1.0,0.0,Retrato,Férias de São Jorge
+10850.0,2021-02-14 17:22:30,Aceita,4500.0,4469.0,1.0,1.0,0.0,0.0,Paisagem,TECITURA DA SEMENTE
+10850.0,2021-02-14 17:22:30,Aceita,3084.0,4500.0,1.0,0.0,1.0,0.0,Retrato,CURA PELA MÃO
+6743.0,2021-02-14 17:29:54,Aceita,3000.0,1996.0,1.0,1.0,0.0,0.0,Paisagem,"Nego Fugido, cultura ao ar livre"
+6743.0,2021-02-14 17:29:54,Aceita,3000.0,1996.0,1.0,1.0,0.0,0.0,Paisagem,Aglomeração da natureza
+12660.0,2021-02-14 17:31:03,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Judas
+12660.0,2021-02-14 17:31:03,Aceita,3000.0,2250.0,1.0,1.0,0.0,0.0,Paisagem,Farol
+12660.0,2021-02-14 17:31:43,Aceita,3000.0,2014.0,1.0,1.0,0.0,0.0,Paisagem,Abandono
+12660.0,2021-02-14 17:31:43,Aceita,3000.0,2014.0,1.0,1.0,0.0,0.0,Paisagem,Inabalável
+12217.0,2021-02-14 17:32:54,Aceita,4252.0,2835.0,1.0,1.0,0.0,0.0,Paisagem,Lugar ao sol
+12217.0,2021-02-14 17:32:54,Aceita,5398.0,3599.0,1.0,1.0,0.0,0.0,Paisagem,Ensaio do pequeno vocalista
+12217.0,2021-02-14 17:35:53,Aceita,3543.0,2362.0,1.0,1.0,0.0,0.0,Paisagem,Intervalo... do intervalo...
+12217.0,2021-02-14 17:35:53,Aceita,5398.0,3599.0,1.0,1.0,0.0,0.0,Paisagem,Flash sem pilhas
+12534.0,2021-02-14 17:35:51,Aceita,3504.0,2283.0,1.0,1.0,0.0,0.0,Paisagem,Olhar
+12534.0,2021-02-14 17:35:51,Aceita,3494.0,2289.0,1.0,1.0,0.0,0.0,Paisagem,Encontro
+12534.0,2021-02-14 17:38:14,Aceita,2628.0,3043.0,1.0,0.0,1.0,0.0,Retrato,Mulher
+12534.0,2021-02-14 17:38:14,Aceita,2309.0,3464.0,1.0,0.0,1.0,0.0,Retrato,Passeando por Londres
+12666.0,2021-02-14 17:43:37,Aceita,4000.0,2678.0,1.0,1.0,0.0,0.0,Paisagem,Fresta
+12666.0,2021-02-14 17:43:37,Aceita,2246.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Fonte de Água
+12666.0,2021-02-14 17:44:07,Aceita,1935.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Senhor José
+12666.0,2021-02-14 17:44:07,Aceita,1974.0,3000.0,1.0,0.0,1.0,0.0,Retrato,Banho
+6742.0,2021-02-14 17:45:48,Aceita,5472.0,3648.0,1.0,1.0,0.0,0.0,Paisagem,Abandono 2
+10366.0,2021-02-14 17:46:51,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Fé em Movimento
+10366.0,2021-02-14 17:46:51,Aceita,3000.0,2004.0,1.0,1.0,0.0,0.0,Paisagem,Vidas em Contraste
+6742.0,2021-02-14 17:49:07,Aceita,4191.0,2794.0,1.0,1.0,0.0,0.0,Paisagem,Abandono 3
+10366.0,2021-02-14 17:50:25,Aceita,3000.0,2000.0,1.0,1.0,0.0,0.0,Paisagem,Infinitos Caminhos
+12227.0,2021-02-14 17:50:05,Aceita,2456.0,3500.0,1.0,0.0,1.0,0.0,Retrato,Cidade sobre palafitas
+12227.0,2021-02-14 17:50:05,Aceita,3500.0,2576.0,1.0,1.0,0.0,0.0,Paisagem,O trabalhador
+12662.0,2021-02-14 17:50:11,Aceita,5184.0,3456.0,1.0,1.0,0.0,0.0,Paisagem,Inspiração
+253.0,2021-02-14 17:51:59,Aceita,5000.0,3334.0,1.0,1.0,0.0,0.0,Paisagem,É Carnaval...
+6742.0,2021-02-14 17:52:43,Aceita,2921.0,4381.0,1.0,0.0,1.0,0.0,Retrato,Ela
+12668.0,2021-02-14 17:54:57,Aceita,4288.0,2848.0,1.0,1.0,0.0,0.0,Paisagem,Contemplar
+12668.0,2021-02-14 17:54:57,Aceita,2718.0,4092.0,1.0,0.0,1.0,0.0,Retrato,
+12227.0,2021-02-14 17:55:40,Aceita,3500.0,2295.0,1.0,1.0,0.0,0.0,Paisagem,Pedalando sobre as águas
+12227.0,2021-02-14 17:55:40,Aceita,3500.0,2333.0,1.0,1.0,0.0,0.0,Paisagem,Pedalando sobre palafitas
+12668.0,2021-02-14 17:57:18,Aceita,4281.0,2753.0,1.0,1.0,0.0,0.0,Paisagem,Selfie
+12668.0,2021-02-14 17:57:18,Aceita,4070.0,2822.0,1.0,1.0,0.0,0.0,Paisagem,Janela
+12669.0,2021-02-14 17:57:51,Aceita,6000.0,4000.0,1.0,1.0,0.0,0.0,Paisagem,Interior Exterior - Observados
+12663.0,2021-02-14 17:58:16,Aceita,6016.0,4016.0,1.0,1.0,0.0,0.0,Paisagem,Luiz de Paraitinga
+12663.0,2021-02-14 17:58:16,Aceita,6240.0,4160.0,1.0,1.0,0.0,0.0,Paisagem,O Bota-fora do Tocador de Tuba
