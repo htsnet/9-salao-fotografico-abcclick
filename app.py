@@ -19,8 +19,18 @@ df_fotos['Concurso_Altura'] = pd.to_numeric(df_fotos['Concurso_Altura'])
 # Configuração inicial da página
 st.set_page_config(page_title='9º Salão Nacional de Arte Fotográfica', page_icon='favicon.ico', layout='centered', )
 
+
+#para esconder o menu do próprio streamlit 
+hide_streamlit_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+</style>
+
+"""
+
 def main():
-      # definindo os parâmetros
+    # definindo os parâmetros
     st.title('9º Salão Nacional de Arte Fotográfica')
     st.markdown("""
     Um retrato sobre um Concurso Fotográfico
@@ -32,6 +42,11 @@ def main():
 
     Você pode ver na lateral esquerda os totais gerais.
     """)
+
+    #esconde menu do streamlit da direita
+    #precisa ter a variável criada
+    st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
     # informação na side bar
     logo = 's9-vers.jpg'
     st.sidebar.image(logo)
