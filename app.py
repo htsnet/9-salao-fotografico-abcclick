@@ -12,7 +12,7 @@ logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter(LOGS_FORMAT)
 file_handler = logging.FileHandler('activity.log')
 file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)
+#logger.addHandler(file_handler)
 
 # carrega os 2 dataframes
 df_fotos = pd.read_csv('fotos.csv')
