@@ -4,6 +4,16 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
+# LOG
+import logging
+LOGS_FORMAT = "%(levelname)s %(asctime)s.%(msecs)03d -%(message)s"
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+formatter = logging.Formatter(LOGS_FORMAT)
+file_handler = logging.FileHandler('activity.log')
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+
 # carrega os 2 dataframes
 df_fotos = pd.read_csv('fotos.csv')
 df_inscritos = pd.read_csv('inscritos.csv')
@@ -30,6 +40,7 @@ footer {visibility: hidden;}
 """
 
 def main():
+    logger.info("Acesso ao site")
     # definindo os parâmetros
     st.title('9º Salão Nacional de Arte Fotográfica')
     st.markdown("""
